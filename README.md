@@ -40,8 +40,12 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 * __MD01. Empieza la diversión__
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md01_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_instructions.md" target="_blank">instructions.md</a>
-  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_lessonplan.md" target="_blank">lessonplan.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_lessonplan.md" target="_blank">lessonplan.md</a>  
 
+* __MD02. Mi primera IA__
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md02_mi_primera_ia_assets" target="_blank">assets</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md02_mi_primera_ia_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md02_mi_primera_ia_lessonplan.md" target="_blank">lessonplan.md</a>
 
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
