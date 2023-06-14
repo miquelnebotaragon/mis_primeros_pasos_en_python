@@ -38,7 +38,7 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 
 # 👇 Actividades
 * __MD01. Empieza la diversión__
-  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md01_assets" target="_blank">assets</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md01_empieza_la_diversion_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_lessonplan.md" target="_blank">lessonplan.md</a>  
 
