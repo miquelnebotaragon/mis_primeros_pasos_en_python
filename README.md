@@ -37,17 +37,24 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 
 
 # 👇 Actividades
-* __MD01. Empieza la diversión__
+* __MD0️⃣1️⃣ Empieza la diversión__
+  ![md01](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/38ed6bef-2110-4d13-b38a-5d73898c564c)
+
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md01_empieza_la_diversion_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md01_empieza_la_diversion_lessonplan.md" target="_blank">lessonplan.md</a>  
 
-* __MD02. Mi primera IA__
+
+* __MD0️⃣2️⃣ Mi primera IA__
+  ![md02](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/a3fb1b00-3614-41ea-8070-5c9cd86b80a9)  
+
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md02_mi_primera_ia_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md02_mi_primera_ia_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md02_mi_primera_ia_lessonplan.md" target="_blank">lessonplan.md</a>
 
-* __MD03. Cuenta tú que a mí me da la risa__
+* __MD0️⃣3️⃣ Cuenta tú que a mí me da la risa__
+![md03](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/7057e840-31c3-433d-b922-85745f2c55e4)  
+
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md03_cuenta_tu_que_a_mi_me_da_la_risa_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md03_cuenta_tu_que_a_mi_me_da_la_risa_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md03_cuenta_tu_que_a_mi_me_da_la_risa_lessonplan.md" target="_blank">lessonplan.md</a>
