@@ -63,7 +63,7 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
 
 # ➕ Información
-1️⃣ Los archivos están desarrollados en lenguaje <a href="https://www.markdownguide.org/" target="_blank">__Markdown__</a> _(md)_. Deberás compiarlos y pegarlos en tu estructura de replit.com.  
+1️⃣ Los archivos están desarrollados en lenguaje <a href="https://www.markdownguide.org/" target="_blank">__Markdown__</a> _(md)_. Deberás copiarlos y pegarlos en tu estructura de replit.com.  
 
 2️⃣ Este conjunto de materiales ha sido creado con la única finalidad de servir de base a otros proyectos de estudio y divulgación. No me hago responsable de los posibles problemas ni perjuicios que puedan provocar con su uso.  
 
