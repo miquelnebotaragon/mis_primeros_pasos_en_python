@@ -88,7 +88,7 @@ Ejemplo:
 print('¡Me encanta esto de ser programador/a!')
 ```
 
-# 🤗 Resumen del Módulo 1
+# 🤗 Resumen del Módulo 01
 
 Hasta aquí esta primera lección con los aspectos más básicos de Python. Recuerda que deberías retener los siguientes conceptos:
 1. Idle de Python (Shell o consola).
