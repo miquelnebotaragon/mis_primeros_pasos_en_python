@@ -11,7 +11,7 @@
 
   Más información en la página de contacto del autor 👉 [Miquel Nebot](https://miquelnebot.es).
 
-### Solución actividad MD03 Actividad 01
+### Solución actividad MD03 Actividad 01 (opcional)
 ````Python
 # Variables
 texto = ('Nacido en 1564 en Pisa, Galileo Galilei fue un astrónomo y físico italiano cuyas contribuciones revolucionaron la ciencia. Su telescopio permitió observaciones que desafiaron las creencias establecidas, confirmando el modelo heliocéntrico de Copérnico. Sin embargo, sus descubrimientos le valieron conflictos con la Iglesia Católica, que lo consideró hereje. A pesar de su persecución, persistió en sus investigaciones y sentó las bases de la física moderna, dejando un legado duradero en el avance científico.')
