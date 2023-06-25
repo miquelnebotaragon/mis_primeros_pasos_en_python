@@ -1,7 +1,7 @@
 # Módulo 01. Aspectos básicos de Python
 
 ## 🤚🏻 Antes de empezar, ¿qué es replit.com?
-  Replit.com es un espacio de trabajo colaborativo en línea que contiene un editor de código donde podemos programar en Python (además de en otros lenguajes) utilizando un __Idle__ (este es el nombre que recibe la consola o _"Shell"_ de Python) completo y sin limitación.  
+  Replit.com es un espacio de trabajo colaborativo en línea que contiene un editor de código donde podemos programar en Python (además de en otros lenguajes) utilizando un __Idle__ (este es el nombre que recibe la consola o _shell_ de Python) completo y sin limitación.  
 
 ![image](assets/logo.png)
  
@@ -58,6 +58,7 @@ en diferentes líneas utilizando barra invertida, \
 ```
 Resultado:
 >Esto sería organizar instrucciónes en diferentes líneas utilizando barra invertida, ¿veis qué bien?
+
 ## 💡 Vale... ¿y si quiero explicar mi código?
 
 Es encarecidamente recomendable efectuar anotaciones y explicaciones a nuestro propio código para facilitar la lectura y entendimiento a las personas que intenten utilizarlo en el futuro.  
