@@ -113,7 +113,8 @@ if n1>n2:
 Resultado:
 > El primer número es mayor.
 
-👉 La sentencia _(else)_ 
+👉 La sentencia _(else)_  
+
 Opcionalmente y acompañando a la sentencia _(if)_ (o a la que veremos a continuación _(elif)_) puedes agregar una respuesta _(else)_ que se ejecutará si la condición inicial no se cumple, es decir, es _FALSE_.  
 
 Ejemplo: veamos como completar el ejemplo anterior.
