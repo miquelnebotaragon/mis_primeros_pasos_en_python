@@ -66,6 +66,12 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md04_mi_calculadora_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md04_mi_calculadora_lessonplan.md" target="_blank">lessonplan.md</a>
 
+* __MD0️⃣5️⃣ Verdadero o falso__ 
+![md05](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/d5f94514-dfc2-4efb-8a60-f97bd0717200)
+
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md05_verdadero_o_falso_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md05_verdadero_o_falso_lessonplan.md" target="_blank">lessonplan.md</a>
+  
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
 
