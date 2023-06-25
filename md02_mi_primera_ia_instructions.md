@@ -188,7 +188,7 @@ Resultado:
 ### 👌 MD02 Actividad 03 (opcional)
 Después de todo lo aprendido en esta última sección (__➕ Ampliación de conocimientos__) completa tus oraciones para conseguir el mejor resultado posible.
 
-# 🤗 Resumen del Módulo 2
+# 🤗 Resumen del Módulo 02
 
 Hasta aquí la segunda lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
 1. Variable.
