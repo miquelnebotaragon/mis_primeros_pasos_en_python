@@ -32,7 +32,7 @@ print('¡Me encanta esto de ser programador/a!')
 Resultado:
 > ¡Me encanta esto de ser programador/a!
 
-## ➕ Continuamos, ¡esto no se ha acabado!
+## ➕ Ampliación de conocimientos
 
 En Python, cada instrucción debe ir en una línea diferente, por lo que __NO__ es nada recomendable anidar varias de ellas en la misma línea (la cual cosa podemos conseguir con el símbolo ";").  
 
