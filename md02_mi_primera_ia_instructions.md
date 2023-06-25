@@ -64,7 +64,7 @@ Resultado:
 Ejemplo 6: repetimos las cadenas de texto tantas veces como le indiquemos con "*veces".
 ```python
 alimento_favorito = 'Melón'
-print(alimento_favorito*3)
+print(alimento_favorito * 3)
 ```
 Resultado:
 >MelónMelónMelón
