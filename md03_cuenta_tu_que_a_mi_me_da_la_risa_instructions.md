@@ -16,12 +16,13 @@ Los tipos de datos nos ayudarán a conocer algo mejor la información que querem
     * 8️⃣ Diccionarios 👉 _(dict)_
   
 ## 1️⃣ Cadenas de texto _(str)_
-Aunque deberían ir englobados dentro de la categoría de _secuencias_ (son también colecciones ordenadas de datos), debido a su relevancia dentro de la programación, a las cadenas de texto les vamos a dedicar una unidad completa. 
+Aunque deberían ir englobadas dentro de la categoría de _secuencias_ (son también colecciones ordenadas de datos), debido a su relevancia dentro de la programación, a las cadenas de texto les vamos a dedicar una unidad completa. 
 A lo largo de los módulos anteriores hemos hablado largo y tendido sobre las cadenas de texto (recuerda que son conjuntos de caracteres de cualquier tipo). Su abreviatura es _(str)_ del inglés _string_. No olvides que para escribir texto deberás hacerlo siempre utilizando comillas simples o dobles.  
 
 Ejemplo de cadena de texto _(str)_: 'Manuel de Falla fue un gran compositor.'  
 
-➕ Python incorpora muchas funciones para trabajar de manera cómoda con cadenas de texto. Por ejemplo, si queremos saber la longitud de una cadena será tan sencillo como añadirle _(len)_ para que nos muestre en pantalla cuantas letras componen nuestro _string_.
+## ➕ Ampliación de conocimientos  
+👉 Python incorpora muchas funciones para trabajar de manera cómoda con cadenas de texto. Por ejemplo, si queremos saber la longitud de una cadena será tan sencillo como añadirle __len()__ para que nos muestre en pantalla cuantas letras componen nuestro _string_.
 
 ````Python
 print(len('En un lugar de la Mancha, de cuyo nombre no quiero acordarme...'))
@@ -29,7 +30,7 @@ print(len('En un lugar de la Mancha, de cuyo nombre no quiero acordarme...'))
 Resultado: ¡cuidado! Los espacios en blanco cuentan también como elementos de la cadena.
 > 63
 
-➕ Otra función que puede resultarte interesante es _(split)_ que se encarga de separar una cadena de texto a partir de un carácter determinado, por ejemplo una coma.
+👉 Otra función que puede resultarte interesante es __split()__ que se encarga de separar una cadena de texto a partir de un carácter determinado, por ejemplo, una coma.
 
 ````Python
 print('sumas,restas,multiplicaciones,divisiones'.split(','))
@@ -37,35 +38,35 @@ print('sumas,restas,multiplicaciones,divisiones'.split(','))
 Resultado: 
 > ['sumas', 'restas', 'multiplicaciones', 'divisiones']
 
-➕ Una de las más utilizadas es _replace(a,b)_ que lo que nos permitirá es cambiar partes de una cadena de texto:
+👉 Una de las más utilizadas es __replace(a,b)__ que lo que nos permitirá es cambiar partes de una cadena de texto:
 ````Python
 print('Manuel'.replace('uel','olo'))
 ````
 Resultado: cambiamos Manuel por Manolo.
 > Manolo  
 
-➕ Otra función más para pasar textos completamente a minúsculas o mayúsculas _lower()_ o _upper()_:
+👉 Otra función más para pasar textos completamente a minúsculas o mayúsculas __lower()__ o __upper()__:
 ````Python
 print('LEONARDO DA VINCI'.lower())
 ````
 Resultado: pasamos texto a minúsculas.
 > leonardo da vinci
 
-➕ Y otra más... Esta nos servirá para buscar en la cadena de texto: _find()_:
+👉 Y otra más... Esta nos servirá para buscar en la cadena de texto: __find()__:
 ````Python
 print('En un largo texto indica la posición de mi nombre Miquel'.find('Miquel'))
 ````
 Resultado: la palabra "Miquel" se encuentra en la posición 50.  
 > 50
 
-➕ Venga, va... ahora sí, la última, con _str[inicio:fin]_ vamos a cortar partes de un texto creando una subcadena (recuerda que la posición del primer elemento es la "0"):
+👉 Venga, va... ahora sí, la última, con __str[inicio:fin]__ vamos a cortar partes de un texto creando una subcadena (recuerda que la posición del primer elemento es la "0"):
 ````Python
 print('Me encantas, Pyhton'[13:19])
 ````
 Resultado:
 > Python
 
-➕ Si quieres practicar con más funciones, puedes encontrar más información en <a href="https://www.w3schools.com/python/python_strings.asp">_Python Strings_. W3 Schools.</a> 
+👉 Si quieres practicar con más funciones, puedes encontrar más información en <a href="https://www.w3schools.com/python/python_strings.asp">_Python Strings_. W3 Schools.</a> 
 
 ### 👌 MD03 Actividad 01 (opcional)
 Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>adivina en qué posición se encuentra la palabra _Galileo_</ins>. Si revisas la información anterior de este módulo, no te será nada complicado hacerlo.  
@@ -78,7 +79,7 @@ Imagen: Pista para la resolución de la actividad opcional MD03 Actividad 01.
 
 ### 🔴 MD03 Actividad 02
 ¿Cuántas veces habéis llenado hojas de vuestro cuaderno marcando las veces que se repite vuestro profe? ¡No os avergoncéis, lo hemos hecho todos! 😊   
-Haz clic en el archivo __"main.py"__ 👆 y engancha el texto siguiente dentro de una variable llamada "historia". Luego, utilizando la función _count()_ <ins>encuentra el número de veces que tu profe ha repetido la palabra "fijaos"</ins> que será almacenada en una segunda variable llamada "repeticion". Finalmente, deberá salir en pantalla un texto anunciando cuantas veces se ha repetido el término: "La palabra... se ha repetido...veces"
+Haz clic en el archivo __"main.py"__ 👆 y engancha el texto siguiente dentro de una variable llamada "historia". Luego, utilizando la función __count()__ <ins>encuentra el número de veces que tu profe ha repetido la palabra "fijaos"</ins> que será almacenada en una segunda variable llamada "repeticion". Finalmente, deberá salir en pantalla un texto anunciando cuantas veces se ha repetido el término: "La palabra... se ha repetido...veces"
 
 <ins>Texto a copiar</ins>  
 _Hoy les contaré una emocionante historia sobre la antigua civilización de los egipcios. Fijaos bien, porque este relato está lleno de misterio y aventuras. Hace miles de años, en tierras lejanas del valle del Nilo, los egipcios construyeron grandes pirámides para honrar a sus faraones. Fijaos en esas enormes estructuras que desafiaban el tiempo, ¡eran impresionantes! En el antiguo Egipto, el río Nilo era fundamental para la vida de su pueblo. Fijaos cómo las aguas del Nilo inundaban las tierras y dejaban un fértil limo que permitía cultivar sus alimentos. Gracias a ello, los egipcios prosperaban. Una de las cosas más asombrosas de los egipcios era su escritura jeroglífica. Fijaos en esos símbolos que representaban objetos y sonidos. A través de ellos, los egipcios dejaron registrada su historia y conocimiento. Además, fijaos en las momias, que eran cuerpos preservados mediante un proceso especial. Los egipcios creían en la vida después de la muerte y preparaban a sus difuntos para esa nueva etapa. La vida en el antiguo Egipto también estaba llena de dioses y diosas. Fijaos en Ra, el poderoso dios del sol, y en Isis, la diosa protectora. Los egipcios les rendían culto y les pedían su protección. ¡Qué interesante es la historia de los egipcios! Fijaos en cómo su legado ha perdurado a lo largo de los siglos. Hoy podemos aprender sobre su cultura y admirar las maravillas que dejaron atrás. Espero que hayáis disfrutado de esta historia llena de misterios y curiosidades. Fijaos en los detalles y seguid explorando el fascinante mundo de la historia. ¡Hasta la próxima aventura!_  
