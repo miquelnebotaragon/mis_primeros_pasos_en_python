@@ -170,6 +170,7 @@ Resultado:
 
 ### 👉 Caracteres especiales
 Se puede dar el caso que necesitemos escribir unas comillas __\" "__ o una barra invertida __"\\"__, por ejemplo, y no vamos a ser capaces de hacerlo si no tenemos en cuenta que es la misma barra invertida la que hace de elemento de escape ("borra" la función habitual de dichos elementos).  
+
 Ejemplo 1: si en el comando __print()__ utilizamos comillas dobles aún será algo más complicado. Veamos:
 ````Python
 print("Quiero escribir unas comillas \"\"",end='.')
