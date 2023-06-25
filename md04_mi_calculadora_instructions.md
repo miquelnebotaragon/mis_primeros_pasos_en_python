@@ -92,6 +92,77 @@ Resultado:
 
 🤯 Siendo este un concepto bastante avanzado (y "complejo" 😉) para nuestros retos de iniciación, no profundizaremos más en el tema.
 
+## ❓ Operaciones aritméticas en Python
+Una vez repasados los tipos de datos numéricos a tratar, ¿qué te parece si descubrimos las operaciones que podemos hacer en Python?  
+![image](assets/operadores_aritmeticos.png)
+Imagen: Operadores aritméticos en Python.
+
+Ejemplo 1: suma de dos números.
+````Python
+# Variables
+n1 = 100
+n2 = 200
+# Ejecución
+print(n1,'+',n2,'=',n1+n2)
+````
+Resultado:
+> 100 + 200 = 300
+
+Ejemplo 2: resta de dos números.  
+````Python
+# Variables
+n1 = 112
+n2 = 9
+# Ejecución
+print(n1,'-',n2,'=',n1-n2)
+````
+Resultado:
+> 112 - 9 = 103
+
+Ejemplo 3: multiplicación de dos números.  
+````Python
+# Variables
+n1 = 9
+n2 = 9
+# Ejecución
+print(n1,'x',n2,'=',n1*n2)
+````
+Resultado:
+> 9 x 9 = 81
+
+Ejemplo 4: división de dos números.  
+````Python
+# Variables
+n1 = 10
+n2 = 3
+# Ejecución
+print(n1,'/',n2,'=',n1/n2)
+````
+Resultado:
+> 10 / 3 = 3.3333333333333335
+
+Ejemplo 5: residuo de una división entre dos números.  
+````Python
+# Variables
+n1 = 10
+n2 = 3
+# Ejecución
+print(n1,'/',n2,'Residuo =',n1%n2)
+````
+Resultado:
+> 10 / 3 Residuo = 1
+
+Ejemplo 6: cociente de una división entre dos números.  
+````Python
+# Variables
+n1 = 10
+n2 = 3
+# Ejecución
+print(n1,'/',n2,'Cociente =',n1//n2)
+````
+Resultado:
+> 10 / 3 Cociente = 3
+
 ## ➕ Ampliación de conocimientos 
 
 Antes de poder continuar con esta segunda actividad del módulo deberemos entender cuáles son las instrucciones que te van a permitir bifurcaciones (diferentes caminos) en Python. Por ello, veamos algunos ejemplos en esta sección.  
@@ -113,8 +184,7 @@ if n1>n2:
 Resultado:
 > El primer número es mayor.
 
-👉 La sentencia _(else)_  
-
+👉 La sentencia _(else)_   
 Opcionalmente y acompañando a la sentencia _(if)_ (o a la que veremos a continuación _(elif)_) puedes agregar una respuesta _(else)_ que se ejecutará si la condición inicial no se cumple, es decir, es _FALSE_.  
 
 Ejemplo: veamos como completar el ejemplo anterior.
@@ -170,7 +240,7 @@ Antes de finalizar este cuarto módulo y, para que intentes llevar a cabo la úl
 
 Utilizamos los bucles para repetir una secuencia de instrucciones o sentencias (cada una de las repeticiones se llama _iteración_) un número indefinido de veces. Este ciclo se repetirá siempre que la condición dada sea verdadera _(TRUE)_ y solo parará si es falsa _(FALSE)_.  
 
-![image](assets/ciclo_while.png)
+![image](assets/bucles.png)
 Imagen: Estructura básica de un bucle en Python.
 
 Ejemplo 1: establecemos el valor 1 a una única variable (de nombre "numero") que tenemos en nuestro programa. A continuación le decimos que, hasta que sea inferior a 10 vaya imprimiendo en pantalla la variable. Al mismo tiempo con _(numero = numero + 1)_ vamos incrementando el valor de la variable. Como es de esperar, al llegar al valor 9 se detendrá el bucle y pasará a la siguiente instrucción. Lo vemos fácilmente en el código del ejemplo 👇.
@@ -299,7 +369,7 @@ Resultado:
 Hasta aquí la cuarta lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
 1. Tipos de datos numéricos.
 2. Números enteros _(int)_, reales o de coma flotante _(float)_ y complejos _(complex)_.
-3. Operadores aritméticos básicos.
+3. Operadores aritméticos básicos: suma, resta, multiplicación, división, residuo y cociente.
   
 También que:  
 * En Python, al igual que en otros lenguajes de programación, existen una serie de sentencias que permiten "elegir" al programa el camino correcto a la hora de continuar.
