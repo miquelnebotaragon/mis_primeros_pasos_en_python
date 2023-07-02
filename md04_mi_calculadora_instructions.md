@@ -240,7 +240,7 @@ Antes de finalizar este cuarto módulo y, para que intentes llevar a cabo la úl
 
 Utilizamos los bucles para repetir una secuencia de instrucciones o sentencias (cada una de las repeticiones se llama _iteración_) un número indefinido de veces. Este ciclo se repetirá siempre que la condición dada sea verdadera _(TRUE)_ y solo parará si es falsa _(FALSE)_.  
 
-![image](assets/bucles.png)
+![image](assets/bucle_while.png)
 Imagen: Estructura básica de un bucle en Python.
 
 Ejemplo 1: establecemos el valor 1 a una única variable (de nombre "numero") que tenemos en nuestro programa. A continuación le decimos que, hasta que sea inferior a 10 vaya imprimiendo en pantalla la variable. Al mismo tiempo con _(numero = numero + 1)_ vamos incrementando el valor de la variable. Como es de esperar, al llegar al valor 9 se detendrá el bucle y pasará a la siguiente instrucción. Lo vemos fácilmente en el código del ejemplo 👇.
