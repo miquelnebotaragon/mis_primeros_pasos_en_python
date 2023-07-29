@@ -225,6 +225,8 @@ else:
 Resultado:
 > Tiene MENOS DE SIETE letras.
 
+![image](md04_mi_calculadora_assets/sentencias_condicionales.png)  
+Imagen: Ejemplo de sentencias condicionales. _if_, _elif_ y _else_.  
 
 ### 🔴 MD04 Actividad 02
 En esta segunda actividad obligatoria del módulo desarrollaremos <ins>una máquina que sea capaz de comparar cadenas de texto</ins>.   
