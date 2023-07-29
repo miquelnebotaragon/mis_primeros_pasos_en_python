@@ -216,7 +216,7 @@ nombre = 'Manuel'
 if len(nombre) == 7:
   print('Tiene SIETE letras.') # Esta sentencia no se ejecutará ya que es FALSE.
 elif len(nombre) < 7:
-  print('Tiene MENOS DE SIETE letras.') # Esta sentencia si que se ejecutará ya que es TRUE.
+  print('Tiene MENOS DE SIETE letras.') # Esta sentencia sí que se ejecutará ya que es TRUE.
 else:
   print('Tiene MÁS DE SIETE letras.')
 ```
