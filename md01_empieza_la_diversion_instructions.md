@@ -3,12 +3,12 @@
 ## 🤚🏻 Antes de empezar, ¿qué es replit.com?
   Replit.com es un espacio de trabajo colaborativo en línea que contiene un editor de código donde podemos programar en Python (además de en otros lenguajes) utilizando un __Idle__ (este es el nombre que recibe la consola o _shell_ de Python) completo y sin limitación.  
 
-![image](assets/logo.png)
+![image](md01_empieza_la_diversion_assets/logo.png)
  
   
   Fíjate como el punto de partida es siempre el símbolo mayor que ">" también llamado _prompt_. Dicho símbolo puede aparecer triplicado ">>>" en otros editores. 
 
-![image](assets/prompt_triple.png)
+![image](md01_empieza_la_diversion_assets/prompt_triple.png)
 
 ## ⛏ ¡Empezamos a picar!
 
