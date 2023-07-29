@@ -127,8 +127,10 @@ mi_nombre = input('Introduce tu nombre: ')
 print('Mi nombre es',mi_nombre,'y los nombres de mis amigos son:',amigo1,amigo2,amigo3)
 ````
 ## ➕ Ampliación de conocimientos
-Como te habrás dado cuenta, la oración anterior que genera tu nueva máquina de _inteligencia artificial_, tiene faltas ortográficas que no debemos pasar por alto.
-![image](md02_mi_primera_ia_assets/faltas.png)
+Como te habrás dado cuenta, la oración anterior que genera tu nueva máquina de _inteligencia artificial_, tiene faltas ortográficas que no debemos pasar por alto.  
+
+![image](md02_mi_primera_ia_assets/faltas.png)  
+
 Como ya sabrás de tus clases de Lenga, los elementos de una enumeración deben ir entre comas y, además, el último elemento precedido de "y". ¡Ah!, y no olvidar el punto antes de finalizar la oración.  
 Veamos entonces una __serie de secuencias (llamadas de escape)__ que te permitirán generar textos perfectamente escritos.
 
