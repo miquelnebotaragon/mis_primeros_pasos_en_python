@@ -93,7 +93,8 @@ Resultado:
 🤯 Siendo este un concepto bastante avanzado (y "complejo" 😉) para nuestros retos de iniciación, no profundizaremos más en el tema.
 
 ## ❓ Operaciones aritméticas en Python
-Una vez repasados los tipos de datos numéricos a tratar, ¿qué te parece si descubrimos las operaciones que podemos hacer en Python?    
+Una vez repasados los tipos de datos numéricos a tratar, ¿qué te parece si descubrimos las operaciones que podemos hacer en Python?   
+
 ![image](md04_mi_calculadora_assets/operadores_aritmeticos.png)  
 Imagen: Operadores aritméticos en Python.
 
