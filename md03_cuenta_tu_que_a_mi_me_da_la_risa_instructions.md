@@ -73,8 +73,9 @@ Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de es
 
 <ins>Texto a copiar</ins>  
 _Nacido en 1564 en Pisa, Galileo Galilei fue un astrónomo y físico italiano cuyas contribuciones revolucionaron la ciencia. Su telescopio permitió observaciones que desafiaron las creencias establecidas, confirmando el modelo heliocéntrico de Copérnico. Sin embargo, sus descubrimientos le valieron conflictos con la Iglesia Católica, que lo consideró hereje. A pesar de su persecución, persistió en sus investigaciones y sentó las bases de la física moderna, dejando un legado duradero en el avance científico._  
-Ejemplo:
-![image](assets/md0301.png)
+Ejemplo:  
+
+![image](md03_cuenta_tu_que_a_mi_me_da_la_risa_assets/md0301.png)  
 Imagen: Pista para la resolución de la actividad opcional MD03 Actividad 01. 
 
 ### 🔴 MD03 Actividad 02
