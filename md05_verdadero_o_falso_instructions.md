@@ -240,8 +240,9 @@ print(not(pedro_camionero))
 ````
 Resultado:
 > False
+
   
-![image](assets/logicos_comparacion.png)
+![image](md05_verdadero_o_falso_assets/logicos_comparacion.png)  
 Imagen: Operadores lógicos y de comparación en Python.
 ### 🔴 MD05 Actividad 01
 Desarrolla un programa sencillo donde el usuario deberá introducir 2 números en total. El programa <ins>deberá analizar dichos números</ins> y decirnos sí:  
