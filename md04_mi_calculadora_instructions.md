@@ -94,7 +94,7 @@ Resultado:
 
 ## ❓ Operaciones aritméticas en Python
 Una vez repasados los tipos de datos numéricos a tratar, ¿qué te parece si descubrimos las operaciones que podemos hacer en Python?  
-![image](assets/operadores_aritmeticos.png)
+![image](md04_mi_calculadora_assets/operadores_aritmeticos.png)  
 Imagen: Operadores aritméticos en Python.
 
 Ejemplo 1: suma de dos números.
