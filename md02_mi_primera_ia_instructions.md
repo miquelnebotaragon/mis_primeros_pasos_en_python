@@ -71,7 +71,8 @@ Resultado:
 
 ***
 ❗ __Palabras reservadas en Python__  
-¡Cuidado! Debes prestar atención a una lista concreta de palabras que <ins>no podrás usar en Python para nombrar variables</ins>, ya que se utilizan para funciones específicas. Para conocer dicha lista basta con teclear "keywords" en el _prompt_ de Python.    
+¡Cuidado! Debes prestar atención a una lista concreta de palabras que <ins>no podrás usar en Python para nombrar variables</ins>, ya que se utilizan para funciones específicas. Para conocer dicha lista basta con teclear "keywords" en el _prompt_ de Python.  
+
 ![image](md02_mi_primera_ia_assets/keywords.png)  
 Imagen: Intérprete de comandos en línea _python.org_ · <a href="https://www.python.org/shell/">Python.org</a>
 ***
