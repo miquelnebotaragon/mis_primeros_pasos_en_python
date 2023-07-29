@@ -33,7 +33,7 @@ Resultado:
 > True
 
 ## ➕ Ampliación de conocimientos
-Para poder seguir trabajando con datos en Python es esencial que comprendamos a nivel muy básico que __operadores lógicos y de comparación__ existen en Python.  
+Para poder seguir trabajando con datos en Python es esencial que comprendamos, a nivel muy básico, qué __operadores lógicos y de comparación__ existen en este lenguaje de programación.  
 
 👉 Operador de comparación: IGUAL _(==)_.  
 El doble igual se utiliza para saber si un valor es igual que otro. La respuesta que arrojará Python será _TRUE_ (verdadero) o _FALSE_ (falso).  
@@ -240,7 +240,9 @@ print(not(pedro_camionero))
 ````
 Resultado:
 > False
-
+  
+![image](assets/logicos_comparacion.png)
+Imagen: Operadores lógicos y de comparación en Python.
 ### 🔴 MD05 Actividad 01
 Desarrolla un programa sencillo donde el usuario deberá introducir 2 números en total. El programa <ins>deberá analizar dichos números</ins> y decirnos sí:  
 * Si los dos números son iguales (es suficiente que arroje _TRUE_ o _FALSE_).
