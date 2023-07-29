@@ -8,7 +8,7 @@
   
   Seguro que acabas de adivinar que el valor que se "oculta" tras la letra __x__ es el 2. Pues algo parecido encontramos en los lenguajes de programación cuando hablamos de variables. Podríamos establecer un símil con una <ins>celda o espacio en la memoria donde dejamos unos valores para que el programa, posteriormente los utilice para hacer cualquier función</ins>.
 
-![image](assets/programming-variable.png)
+![image](md02_mi_primera_ia_assets/programming-variable.png)
 Imagen: _CPT-programming-variable.svg_ · <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">Wikimedia Commons</a> 
 
 ## ⛏ ¡Empezamos a picar!
@@ -72,7 +72,7 @@ Resultado:
 ***
 ❗ __Palabras reservadas en Python__  
 ¡Cuidado! Debes prestar atención a una lista concreta de palabras que <ins>no podrás usar en Python para nombrar variables</ins>, ya que se utilizan para funciones específicas. Para conocer dicha lista basta con teclear "keywords" en el _prompt_ de Python.  
-![image](assets/keywords.png)
+![image](md02_mi_primera_ia_assets/keywords.png)
 Imagen: Intérprete de comandos en línea _python.org_ · <a href="https://www.python.org/shell/">Python.org</a>
 ***
 ### 🔴 MD02 Actividad 01
@@ -128,7 +128,7 @@ print('Mi nombre es',mi_nombre,'y los nombres de mis amigos son:',amigo1,amigo2,
 ````
 ## ➕ Ampliación de conocimientos
 Como te habrás dado cuenta, la oración anterior que genera tu nueva máquina de _inteligencia artificial_, tiene faltas ortográficas que no debemos pasar por alto.
-![image](assets/faltas.png)
+![image](md02_mi_primera_ia_assets/faltas.png)
 Como ya sabrás de tus clases de Lenga, los elementos de una enumeración deben ir entre comas y, además, el último elemento precedido de "y". ¡Ah!, y no olvidar el punto antes de finalizar la oración.  
 Veamos entonces una __serie de secuencias (llamadas de escape)__ que te permitirán generar textos perfectamente escritos.
 
