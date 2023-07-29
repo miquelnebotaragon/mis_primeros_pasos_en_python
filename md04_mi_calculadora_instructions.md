@@ -93,7 +93,7 @@ Resultado:
 🤯 Siendo este un concepto bastante avanzado (y "complejo" 😉) para nuestros retos de iniciación, no profundizaremos más en el tema.
 
 ## ❓ Operaciones aritméticas en Python
-Una vez repasados los tipos de datos numéricos a tratar, ¿qué te parece si descubrimos las operaciones que podemos hacer en Python?  
+Una vez repasados los tipos de datos numéricos a tratar, ¿qué te parece si descubrimos las operaciones que podemos hacer en Python?    
 ![image](md04_mi_calculadora_assets/operadores_aritmeticos.png)  
 Imagen: Operadores aritméticos en Python.
 
@@ -230,7 +230,7 @@ En esta segunda actividad obligatoria del módulo desarrollaremos <ins>una máqu
 
 Crea un nuevo documento de nombre _(main2.py)_ tal y como te mostramos en la siguiente captura e intenta desarrollar la máquina que te planteamos teniendo en cuenta los ejemplos anteriores: 
 
-![image](assets/nuevo.png)
+![image](md04_mi_calculadora_assets/nuevo.png)  
 Imagen: Añadir nuevo archivo de Python · <a href="https://replit.com">Replit</a>
 
 ## ➕ Ampliación de conocimientos
@@ -240,7 +240,7 @@ Antes de finalizar este cuarto módulo y, para que intentes llevar a cabo la úl
 
 Utilizamos los bucles para repetir una secuencia de instrucciones o sentencias (cada una de las repeticiones se llama _iteración_) un número indefinido de veces. Este ciclo se repetirá siempre que la condición dada sea verdadera _(TRUE)_ y solo parará si es falsa _(FALSE)_.  
 
-![image](assets/bucle_while.png)
+![image](md04_mi_calculadora_assets/bucle_while.png)  
 Imagen: Estructura básica de un bucle en Python.
 
 Ejemplo 1: establecemos el valor 1 a una única variable (de nombre "numero") que tenemos en nuestro programa. A continuación le decimos que, hasta que sea inferior a 10 vaya imprimiendo en pantalla la variable. Al mismo tiempo con _(numero = numero + 1)_ vamos incrementando el valor de la variable. Como es de esperar, al llegar al valor 9 se detendrá el bucle y pasará a la siguiente instrucción. Lo vemos fácilmente en el código del ejemplo 👇.
