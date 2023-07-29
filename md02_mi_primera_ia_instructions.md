@@ -8,7 +8,7 @@
   
   Seguro que acabas de adivinar que el valor que se "oculta" tras la letra __x__ es el 2. Pues algo parecido encontramos en los lenguajes de programación cuando hablamos de variables. Podríamos establecer un símil con una <ins>celda o espacio en la memoria donde dejamos unos valores para que el programa, posteriormente los utilice para hacer cualquier función</ins>.
 
-![image](md02_mi_primera_ia_assets/programming-variable.png)
+![image](md02_mi_primera_ia_assets/programming-variable.png)  
 Imagen: _CPT-programming-variable.svg_ · <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">Wikimedia Commons</a> 
 
 ## ⛏ ¡Empezamos a picar!
