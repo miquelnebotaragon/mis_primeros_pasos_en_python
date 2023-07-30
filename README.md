@@ -38,6 +38,8 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 4️⃣ Renombra los enlaces del documento _instructions.md_ para que coincidan con la ruta en replit.com, "assets/imagen.png"  
 
 ![Wr1FueOnsF](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/42603e8f-6e38-4ee7-b701-65773c2152b4)
+![F3xdGD2Ed5](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/dc3a3270-f372-4292-acca-0d764798451e)
+
 
 # 👇 Actividades
 * __MD0️⃣1️⃣ Empieza la diversión__
