@@ -72,6 +72,12 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md05_verdadero_o_falso_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md05_verdadero_o_falso_lessonplan.md" target="_blank">lessonplan.md</a>
+
+* __MD0️⃣6️⃣ Trabajando con datos__ 
+![md06](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/ed8398ef-be4d-45c8-8389-4de4bf79a53b)
+
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md06_trabajando_con_datos_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md06_trabajando_con_datos_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
