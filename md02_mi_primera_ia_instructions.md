@@ -69,13 +69,13 @@ print(alimento_favorito * 3)
 Resultado:
 >MelónMelónMelón
 
-***
+---
 ❗ __Palabras reservadas en Python__  
 ¡Cuidado! Debes prestar atención a una lista concreta de palabras que <ins>no podrás usar en Python para nombrar variables</ins>, ya que se utilizan para funciones específicas. Para conocer dicha lista basta con teclear "keywords" en el _prompt_ de Python.  
 
 ![image](md02_mi_primera_ia_assets/keywords.png)  
 Imagen: Intérprete de comandos en línea _python.org_ · <a href="https://www.python.org/shell/">Python.org</a>
-***
+---
 ### 🔴 MD02 Actividad 01
 Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>escribe un total de tres variables que se muestren en pantalla a la vez</ins> con el comando __print()__.  
 
@@ -93,6 +93,7 @@ print(amigo1,amigo2,amigo3)
 Resultado:
 > Juan Carla Alba
 
+---
 2️⃣ Podemos conseguir que sea el usuario/a quien introduzca el valor a almacenar, lo haremos usando la instrucción __input()__. Fíjate en el ejemplo:  
 
 Ejemplo 1:
@@ -114,7 +115,7 @@ print(nombre)
 Resultado:
 > Escribe a continuación tu nombre: Miquel \
 > Miquel
-
+---
 ### 🔴 MD02 Actividad 02
 Continuando con el ejemplo anterior, añade la instrucción necesaria para que el programa te haga introducir tu nombre y muestre en pantalla los nombres de tus amigos. Puedes personalizar el texto tanto como quieras para que quede una oración lo más cuidada posible.
 ````Python
@@ -127,6 +128,8 @@ mi_nombre = input('Introduce tu nombre: ')
 # Ejecución de la instrucción
 print('Mi nombre es',mi_nombre,'y los nombres de mis amigos son:',amigo1,amigo2,amigo3)
 ````
+
+---
 ## ➕ Ampliación de conocimientos
 Como te habrás dado cuenta, la oración anterior que genera tu nueva máquina de _inteligencia artificial_, tiene faltas ortográficas que no debemos pasar por alto.  
 
@@ -187,10 +190,11 @@ print("Quiero escribir una barra inclinada \\",end='.')
 ````
 Resultado:  
 >Quiero escribir una barra inclinada \\.
-
+---
 ### 👌 MD02 Actividad 03 (opcional)
 Después de todo lo aprendido en esta última sección (__➕ Ampliación de conocimientos__) completa tus oraciones para conseguir el mejor resultado posible.
 
+---
 # 🤗 Resumen del Módulo 02
 
 Hasta aquí la segunda lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
