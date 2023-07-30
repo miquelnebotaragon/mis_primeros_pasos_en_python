@@ -244,6 +244,8 @@ Resultado:
   
 ![image](md05_verdadero_o_falso_assets/logicos_comparacion.png)  
 Imagen: Operadores lógicos y de comparación en Python.
+
+---
 ### 🔴 MD05 Actividad 01
 Desarrolla un programa sencillo donde el usuario deberá introducir 2 números en total. El programa <ins>deberá analizar dichos números</ins> y decirnos sí:  
 * Si los dos números son iguales (es suficiente que arroje _TRUE_ o _FALSE_).
@@ -252,6 +254,7 @@ Desarrolla un programa sencillo donde el usuario deberá introducir 2 números e
 * Si el segundo es mayor o igual que el primero.
 * Invertir el resultado anterior.
 
+---
 ### 🔴 MD05 Actividad 02
 Crea en esta segunda actividad una aplicación donde el usuario tenga que introducir un número al azar y <ins>el sistema detecte si es par y está entre 0 y 100</ins>.  
 ❗ Recuerda que para saber si un número es par, debes dividirlo entre 2 y el residuo de la división debe darte 0. En el módulo 04 vimos como existía un operador aritmético _(%)_ con el cual podíamos adivinar el residuo de una división.
@@ -268,6 +271,7 @@ else:
 ````
 Además de los elementos del ejemplo, recuerda que deberás utilizar el operador lógico _(and)_ para conseguir tu cometido.  
 
+---
 # 🤗 Resumen del Módulo 5
 
 Hasta aquí la quinta lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
