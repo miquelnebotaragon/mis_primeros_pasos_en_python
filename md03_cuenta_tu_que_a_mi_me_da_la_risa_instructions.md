@@ -78,6 +78,7 @@ Ejemplo:
 ![image](md03_cuenta_tu_que_a_mi_me_da_la_risa_assets/md0301.png)  
 Imagen: Pista para la resolución de la actividad opcional MD03 Actividad 01. 
 
+---
 ### 🔴 MD03 Actividad 02
 ¿Cuántas veces habéis llenado hojas de vuestro cuaderno marcando las veces que se repite vuestro profe? ¡No os avergoncéis, lo hemos hecho todos! 😊   
 Haz clic en el archivo __"main.py"__ 👆 y engancha el texto siguiente dentro de una variable llamada "historia". Luego, utilizando la función __count()__ <ins>encuentra el número de veces que tu profe ha repetido la palabra "fijaos"</ins> que será almacenada en una segunda variable llamada "repeticion". Finalmente, deberá salir en pantalla un texto anunciando cuantas veces se ha repetido el término: "La palabra... se ha repetido...veces"
@@ -87,12 +88,14 @@ _Hoy les contaré una emocionante historia sobre la antigua civilización de los
 
 Texto: Generado a través de IA en https://chat.openai.com para la actividad MD03 Actividad 02.
 
+---
 ### 🔴 MD03 Actividad 03
 Después de llevar a cabo el ejercicio anterior, es normal que te haya dado de resultado "1", ya que le hemos dicho al programa que el término exacto que debe buscar es "fijaos" y otras variantes como "Fijaos" con la primera "F" mayúscula no las tiene en cuenta. 
 Revisa la información anterior y mira a ver si con _upper_ o _lower_ podrías poner remedio al problema.  
 
 En el archivo __"main.py"__ corrige tu programación hasta que te dé 8 la cantidad de veces que se repite la palabra.
 
+---
 # 🤗 Resumen del Módulo 3
 
 Hasta aquí la tercera lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
