@@ -77,7 +77,7 @@ importante y facilita la comprensión de nuestro código a futuros usuarios.'''
 ```
 Resultado:
 >-
-
+---
 ### 🔴 MD01 Actividad 02
 
 Haz clic en el archivo __"main.py"__ y, antes de la oración de la Actividad 01, <ins>haz un comentario usando la tecla almohadilla "#"</ins>.  
@@ -89,6 +89,7 @@ Ejemplo:
 print('¡Me encanta esto de ser programador/a!')
 ```
 
+---
 # 🤗 Resumen del Módulo 01
 
 Hasta aquí esta primera lección con los aspectos más básicos de Python. Recuerda que deberías retener los siguientes conceptos:
