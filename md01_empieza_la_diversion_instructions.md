@@ -19,7 +19,7 @@ print('Mi primera línea de código en Python, ¡genial!')
 ```
 Resultado:
 > Mi primera línea de código en Python, ¡genial!
-
+---
 ### 🔴 MD01 Actividad 01
 
 Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y escribe tu primera línea de código. <ins>Escribe una oración simple, la que tú quieras</ins>. Recuerda que aquello que escribas tiene que ir entre paréntesis y también entre comillas (pueden ser simples o dobles, da igual).  
@@ -32,6 +32,7 @@ print('¡Me encanta esto de ser programador/a!')
 Resultado:
 > ¡Me encanta esto de ser programador/a!
 
+---
 ## ➕ Ampliación de conocimientos
 
 En Python, cada instrucción debe ir en una línea diferente, por lo que __NO__ es nada recomendable anidar varias de ellas en la misma línea (la cual cosa podemos conseguir con el símbolo ";").  
