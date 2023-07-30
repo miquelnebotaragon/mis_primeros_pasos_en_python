@@ -68,6 +68,7 @@ Resultado:
 
 👉 Si quieres practicar con más funciones, puedes encontrar más información en <a href="https://www.w3schools.com/python/python_strings.asp">_Python Strings_. W3 Schools.</a> 
 
+---
 ### 👌 MD03 Actividad 01 (opcional)
 Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>adivina en qué posición se encuentra la palabra _Galileo_</ins>. Si revisas la información anterior de este módulo, no te será nada complicado hacerlo.  
 
