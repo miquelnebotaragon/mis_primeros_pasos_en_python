@@ -72,14 +72,14 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 * __MD0️⃣5️⃣ Verdadero o falso__ 
 ![md05](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/d5f94514-dfc2-4efb-8a60-f97bd0717200)
 
-  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md05_verdadero_o_falso_assets" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md05_verdadero_o_falso_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md05_verdadero_o_falso_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md05_verdadero_o_falso_lessonplan.md" target="_blank">lessonplan.md</a>
 
 * __MD0️⃣6️⃣ Trabajando con datos__ 
 ![md06](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/c60c31cb-a348-4339-bb99-704a61229c4d)
 
-  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md06_trabajando_con_datos_assets" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md06_trabajando_con_datos_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md06_trabajando_con_datos_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md06_trabajando_con_datos_lessonplan.md" target="_blank">lessonplan.md</a>
   
