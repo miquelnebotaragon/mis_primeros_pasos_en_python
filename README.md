@@ -35,7 +35,7 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 3️⃣ Arrastra como ves en la captura 👇 las imágenes disponibles en la carpeta _assets_.  
 
 ![Y23yYlHiGT](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/f5be5a5f-0872-4f8d-9466-831b2e24264a)
-4️⃣ Renombra los enlaces del documento _instructions.md_ para que coincidan con la ruta en replit "assets/imagen.png"  
+4️⃣ Renombra los enlaces del documento _instructions.md_ para que coincidan con la ruta en replit.com, "assets/imagen.png"  
 
 ![Wr1FueOnsF](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/42603e8f-6e38-4ee7-b701-65773c2152b4)
 
