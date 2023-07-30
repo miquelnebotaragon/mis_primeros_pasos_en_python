@@ -75,6 +75,7 @@ Resultado:
 
 ![image](md02_mi_primera_ia_assets/keywords.png)  
 Imagen: Intérprete de comandos en línea _python.org_ · <a href="https://www.python.org/shell/">Python.org</a>
+
 ---
 ### 🔴 MD02 Actividad 01
 Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>escribe un total de tres variables que se muestren en pantalla a la vez</ins> con el comando __print()__.  
@@ -115,6 +116,7 @@ print(nombre)
 Resultado:
 > Escribe a continuación tu nombre: Miquel \
 > Miquel
+
 ---
 ### 🔴 MD02 Actividad 02
 Continuando con el ejemplo anterior, añade la instrucción necesaria para que el programa te haga introducir tu nombre y muestre en pantalla los nombres de tus amigos. Puedes personalizar el texto tanto como quieras para que quede una oración lo más cuidada posible.
@@ -190,6 +192,7 @@ print("Quiero escribir una barra inclinada \\",end='.')
 ````
 Resultado:  
 >Quiero escribir una barra inclinada \\.
+
 ---
 ### 👌 MD02 Actividad 03 (opcional)
 Después de todo lo aprendido en esta última sección (__➕ Ampliación de conocimientos__) completa tus oraciones para conseguir el mejor resultado posible.
