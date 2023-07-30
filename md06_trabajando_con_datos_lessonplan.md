@@ -73,3 +73,21 @@ grupo_trabajo.append('Mónica')
 # Ejecución
 print(sorted(grupo_trabajo))
 ````
+
+### Solución actividad MD06 Actividad 07 (opcional)  
+````Python
+# Variables
+lista_numeros = [] 
+acabar = False
+
+# Ejecución
+while(not acabar):
+    numero = int(input("Introduce un número (0 para acabar): "))
+    if(numero == 0):
+        acabar=True
+    else:
+        lista_numeros.append(numero)
+ 
+lista_numeros.sort() 
+print(lista_numeros)
+````
