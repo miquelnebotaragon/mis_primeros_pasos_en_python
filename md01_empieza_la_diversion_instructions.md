@@ -101,5 +101,5 @@ Hasta aquí esta primera lección con los aspectos más básicos de Python. Recu
 También que:  
 * En Python cada instrucción deberá aparecer en una línea individual.  
 * Podemos utilizar ";" para unir instrucciones en una misma línea.  
-* Podemos utilizar la "\" para fragmentar instrucciones en diversas líneas.  
+* Podemos utilizar la "\\" para fragmentar instrucciones en diversas líneas.  
 * Utilizamos "#" para comentar, explicar o impedir que se ejecute alguna instrucción de manera temporal (si el comentario es largo, triples comillas).
