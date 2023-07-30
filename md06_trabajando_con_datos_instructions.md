@@ -161,7 +161,7 @@ Alba
 
 ---
 ### 🔴 MD06 Actividad 04
-Construye aquí una nueva lista con los componentes de un equipo ficticio mixto de trabajo para desarrollar un trabajo de clase. Consigue que el programa liste el nombre de los componentes de dicho grupo como ves en el ejemplo:  
+<ins>Construye aquí una nueva lista con los componentes de un equipo ficticio mixto de trabajo</ins> para desarrollar un trabajo de clase. Consigue que el programa liste el nombre de los componentes de dicho grupo como ves en el ejemplo:  
 > Ana  
 > Pablo  
 > Sonia  
@@ -187,7 +187,7 @@ Resultado:
 
 ---
 ### 🔴 MD06 Actividad 05
-Finalmente, a vuestro grupo de trabajo se ha añadido una última persona, Mónica. Añádela mediante la opción _append_ a la lista anterior.  
+Finalmente, a vuestro grupo de trabajo se ha añadido una última persona, Mónica. <ins>Añádela mediante la opción _append_ a la lista anterior</ins>.  
 
 ---
 
@@ -233,7 +233,7 @@ Resultado:
 
 ---
 ### 🔴 MD06 Actividad 06
-Intenta en esta actividad que el programa ordene alfabéticamente los nombres de los componentes de tu grupo de trabajo. Recuerda que deberás utilizar la opción _sort_. 
+Intenta en esta actividad que el programa <ins>ordene alfabéticamente los nombres de los componentes de tu grupo de trabajo</ins>. Recuerda que deberás utilizar la opción _sort_. 
 
 ---
 👉 Eliminar elementos de una lista con _del_.  
