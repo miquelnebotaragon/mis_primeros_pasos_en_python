@@ -266,7 +266,7 @@ Resultado:
 
 En forma de esquema, estos y otros métodos de las listas en Python 👇️
 
-![image](assets/metodos_clase_list.png)
+![image](md06_trabajando_con_datos_assets/metodos_clase_list.png)
 Imagen: Métodos de la clase _list_
 
 
