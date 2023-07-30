@@ -271,7 +271,7 @@ Imagen: Métodos de la clase _list_.
 
 ---
 ### 👌 MD06 Actividad 07 (opcional)
-A través de esta actividad guiada, construye un programa que pida al usuario la introducción de números que serán almacenados en una lista. El programa finalizará al introducir el número "0". Finalmente y después de introducir el valor de _parada_, "0", que nos aparezca en pantalla el listado ordenado de los números introducidos.  
+A través de esta actividad guiada, <ins>construye un programa que pida al usuario la introducción de números que serán almacenados en una lista</ins>. El programa finalizará al introducir el número "0". Finalmente y después de introducir el valor de _parada_, "0", que nos aparezca en pantalla el listado ordenado de los números introducidos.  
 
 Fíjate cómo hacerlo y personalízalo a tu gusto:
 ````Python
