@@ -269,6 +269,29 @@ En forma de esquema, estos y otros métodos de las listas en Python 👇️
 ![image](md06_trabajando_con_datos_assets/metodos_clase_list.png)  
 Imagen: Métodos de la clase _list_.
 
+---
+### 👌 MD06 Actividad 07 (opcional)
+A través de esta actividad guiada, construye un programa que pida al usuario la introducción de números que serán almacenados en una lista. El programa finalizará al introducir el número "0". Finalmente y después de introducir el valor de _parada_, "0", que nos aparezca en pantalla el listado ordenado de los números introducidos.  
+
+Fíjate cómo hacerlo y personalízalo a tu gusto:
+````Python
+# Variables
+lista_numeros = [] 
+acabar = False
+
+# Ejecución
+while(not acabar):
+    numero = int(input("Introduce un número (0 para acabar): "))
+    if(numero == 0):
+        acabar=True
+    else:
+        lista_numeros.append(numero)
+ 
+lista_numeros.sort() 
+print(lista_numeros)
+````
+
+---
 
 # 🤗 Resumen del Módulo 6
 
