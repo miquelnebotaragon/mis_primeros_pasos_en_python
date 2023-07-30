@@ -46,6 +46,7 @@ print(x/y)
 Resultado:
 > 12.5
 
+---
 ### 🔴 MD04 Actividad 01
 En el documento, _main.py_ ☝, <ins>construye una calculadora simple para realizar sumas</ins>. Deberás crear un sistema para que el usuario introduzca el primer número, luego el segundo y, finalmente, arroje automáticamente el resultado de la suma. Recuerda lo que vimos con _input()_ en módulos anteriores.
 
@@ -67,6 +68,7 @@ numero1 = int(input('Introduce el primer sumando: '))
 ...
 ````
 
+---
 ## 3️⃣ Números reales o de coma flotante _(float)_
 Son aquellos que representan números con decimales, es decir, números que tienen una parte entera y una parte decimal. El símbolo separador de ambas partes debe ser siempre un punto ".". En operaciones donde se utilicen estos tipos de números, los decimales proporcionados serán como máximo 15 dígitos.
 
@@ -228,6 +230,7 @@ Resultado:
 ![image](md04_mi_calculadora_assets/sentencias_condicionales.png)  
 Imagen: Ejemplo de sentencias condicionales. _if_, _elif_ y _else_.  
 
+---
 ### 🔴 MD04 Actividad 02
 En esta segunda actividad obligatoria del módulo desarrollaremos <ins>una máquina que sea capaz de comparar cadenas de texto</ins>.   
 
@@ -236,6 +239,7 @@ Crea un nuevo documento de nombre _(main2.py)_ tal y como te mostramos en la sig
 ![image](md04_mi_calculadora_assets/nuevo.png)  
 Imagen: Añadir nuevo archivo de Python · <a href="https://replit.com">Replit</a>
 
+---
 ## ➕ Ampliación de conocimientos
 👉 Los bucles _(while)_ 
 
@@ -313,6 +317,7 @@ Resultado:
 >3\
 >¡Gracias por tu colaboración!
 
+---
 ### 👌 MD04 Actividad 03 (opcional)
 Para finalizar, <ins>¿te animas a programar una auténtica calculadora?</ins> Presta mucha atención porque tendremos que utilizar los nuevos conceptos estudiados anteriormente. De todos modos, no te preocupes, ya que esta es una actividad guiada por completo, es decir, podrás ir copiando el código en tu archivo de Python e ir personalizándolo a tu gusto.
 
@@ -367,6 +372,7 @@ Resultado:
 >Elige una opción: 1\
 >La suma de 7 + 3 es 10
 
+---
 # 🤗 Resumen del Módulo 4
 
 Hasta aquí la cuarta lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
