@@ -382,7 +382,7 @@ Hasta aquí la cuarta lección con aspectos básicos sobre Python. Recuerda que 
   
 También que:  
 * En Python, al igual que en otros lenguajes de programación, existen una serie de sentencias que permiten "elegir" al programa el camino correcto a la hora de continuar.
-  * _if_ Si se cumple la condición que se siga ejecutando la programación siguiendo el orden establecido.
-  * _else_ Si la condición del _if_ no se cumple, automáticamente saltará a la instrucción que contenga esta sentencia.
-  * _elif_ Es de gran utilidad para verificar diversas condiciones una detrás de la otra.
-  * _while_ Para ejecutar bucles de repetición utilizaremos _while_ el cual estará en funcionamiento de manera indefinida o hasta que la respuesta a alguna consulta sea _FALSE_.
+  * _if_ 👉 Si se cumple la condición que se siga ejecutando la programación siguiendo el orden establecido.
+  * _else_ 👉 Si la condición del _if_ no se cumple, automáticamente saltará a la instrucción que contenga esta sentencia.
+  * _elif_ 👉 Es de gran utilidad para verificar diversas condiciones una detrás de la otra.
+  * _while_ 👉 Para ejecutar bucles de repetición utilizaremos _while_ el cual estará en funcionamiento de manera indefinida o hasta que la respuesta a alguna consulta sea _FALSE_.
