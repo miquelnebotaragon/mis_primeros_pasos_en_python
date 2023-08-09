@@ -16,7 +16,7 @@ Los tipos de datos nos ayudarán a conocer algo mejor la información que querem
     * 8️⃣ Diccionarios 👉 _(dict)_
 
 ### 8️⃣ Diccionarios
-Los diccionarios son estructuras de datos que se van almacenando como pares siguiendo la estructura _clave:valor_. Deberán ir entre corchetes "{ }" y separados sus pares por comas ",". Veamos un ejemplo para comprender mejor.  
+Los diccionarios son estructuras de datos que se van almacenando en pares siguiendo la estructura siguiente: _clave:valor_. Deberán ir entre corchetes "{ }" y separados sus pares por comas ",". Veamos un ejemplo para comprender mejor.  
 
 Ejemplo de diccionario: {'localidad':'Son Servera','codigo_postal':'07550'}
 
