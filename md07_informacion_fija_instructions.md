@@ -204,7 +204,7 @@ print(f'Mis dos mejores amigas en clase son {alumno1} y {alumno2}.')
 Resultado:
 > Mis dos mejores amigas en clase son Beatriz y Sarai.
 
-Como las f-strings se van evaluando al momento podemos utilizarlas para poder efectuar también, por ejemplo, operaciones aritméticas básicas. Fíjate en el ejemplo:
+Como las _f-strings_ se van evaluando al momento podemos utilizarlas para poder efectuar también, por ejemplo, operaciones aritméticas básicas. Fíjate en el ejemplo:
 ```Python
 # Variables
 entero1 = 100
