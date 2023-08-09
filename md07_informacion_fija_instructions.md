@@ -176,7 +176,7 @@ La palabra jirafa se ha repetido 1 veces.
 ---
 ## ➕ Ampliación de conocimientos
 Seguro que hay algo del ejemplo anterior que no te acaba de encajar, puesto que no lo habíamos visto hasta el momento. Fíjate en la captura siguiente 👇️.
-![image](assets/f_strings.png)
+![image](md07_informacion_fija_assets/f_strings.png)
 Imagen: _f-Strings_ en Python.  
 
 Para poder dar formato a un texto hemos utilizado dentro de las composiciones de texto para unir elementos las comas "," o también el signo "+". A partir de la versión 3.6 de Python se introdujo un nuevo concepto llamado _f-strings_ (_formatted string literals_) que nos facilitará enormemente poder formatear rápidamente las cadenas de texto. Veamos un par de ejemplos:
