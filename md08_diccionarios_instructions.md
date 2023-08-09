@@ -102,7 +102,7 @@ Resultado:
 Santorini   
 de la Cierva   
 
-Ejemplo 6: si es necesario, con la función _sorted()_ podremos ordenar los valores de un diccionario. Veamos un nuevo ejemplo.
+Ejemplo 7: si es necesario, con la función _sorted()_ podremos ordenar los valores de un diccionario. Veamos un nuevo ejemplo.
 ```Python
 # Variables
 dicc1 = {1:'A',2:'B',3:'Z',4:'M'}
@@ -118,7 +118,8 @@ Resultado:
 
 En forma de esquema imprimible, funciones interesantes para las cadenas de texto y las secuencias de datos 👇️
 
-![image](assets/python_funciones_interesantes_secuencias_datos.png)
+![image](md08_diccionarios_assets/python_funciones_interesantes_secuencias_datos.png)  
+
 Imagen: Funciones interesantes para las secuencias de datos.
 
 ---
