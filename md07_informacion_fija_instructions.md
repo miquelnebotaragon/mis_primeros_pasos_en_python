@@ -1,4 +1,4 @@
-# Módulo 07. Secuencias. Tuplas y diccionarios
+# Módulo 07. Secuencias. Tuplas
 
 ## ❓ ¿Qué tipos de datos podemos tratar en Python?
 Los tipos de datos nos ayudarán a conocer algo mejor la información que queremos tratar en nuestros programas. Empecemos entonces con una simple clasificación:
