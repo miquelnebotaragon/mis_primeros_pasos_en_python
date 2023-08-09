@@ -23,7 +23,7 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 2. YouTube vídeo 02 👉 <a href="https://youtu.be/I8JLpp7z4b4" target="_blank">02 Python en primaria. Mis primeras líneas en el Bloc de notas.</a>
 3. YouTube vídeo 03 👉 <a href="https://youtu.be/ZNVz69yOvHo" target="_blank">03 Python en primaria. Intérpretes de comandos en línea.</a>
 4. YouTube vídeo 04 👉️ <a href="https://youtu.be/fYdRvMoMN7E" target="_blank">04 Python en primaria. Replit.com. Conociendo la interfaz.</a>
-5. YouTube vídeo 05 👉 <a href="https://youtu.be/PHpHs-b9vNc" target="_blank">05 Python en primaria. Replit.com. Nuestra clase.</a>
+5. YouTube vídeo 05 👉️ <a href="https://youtu.be/PHpHs-b9vNc" target="_blank">05 Python en primaria. Replit.com. Nuestra clase.</a>
 6. YouTube vídeo 06 👉️ <a href="https://youtu.be/A9QLdkVxU-A" target="_blank">06 Python en primaria. Replit.com. Punto de vista del alumno.</a>
 7. YouTube vídeo 07 👉 <a href="https://youtu.be/ocSrxGP6z6U" target="_blank">07 Python en primaria. Replit.com. Desarrollo de una lección.</a>
 8. YouTube vídeo 08 👉 <a href="https://youtu.be/OrrESeNVJSc" target="_blank">08 Python en primaria. Uso de Python en ChromeOS.</a>
@@ -90,6 +90,13 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md07_informacion_fija_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md07_informacion_fija_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md07_informacion_fija_lessonplan.md" target="_blank">lessonplan.md</a>
+
+* __MD0️⃣8️⃣ Diccionarios__ 
+![md08](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/4a672d40-758e-4ccc-a3f1-d30a31a7d6f8)
+
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md08_diccionarios_assets" target="_blank">assets</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md08_diccionarios_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md08_diccionarios_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
