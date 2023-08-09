@@ -160,4 +160,4 @@ Hasta aquí la octava lección con aspectos básicos sobre Python. Recuerda que 
 1. Tipos de datos.
 2. Tipos de secuencias: diccionarios.
 3. Clave y valor.
-4. Funciones destacadas para las secuencias de datos.
+4. Funciones destacadas para las secuencias de datos. Funcionamiento particular variables de texto, listas, tuplas y diccionarios.
