@@ -64,8 +64,9 @@ primera_participante = {'nombre':'Regina','apellido1':'Santorini','apellido2':'d
 primera_participante['localidad'] = 'Cangas del Narcea'
 
 # Ejecución
-print(primera_participante)
-for valor in primera_participante:
+print(primera_participante) # Mostraremos así en pantalla el diccionario al completo.
+
+for valor in primera_participante: # De esta manera, los valores por separado y en posición vertical.
   print(primera_participante[valor])
 ```
 Resultado:
