@@ -140,7 +140,7 @@ datos_alumnado = {'AL1':[{'nombre':'Carlos','apellido1':'Alzamora','apellido2':'
 ```
 ---
 ## ➕ Ampliación de conocimientos 
-Después de ver cómo construir un diccionario de una complejidad considerable como es el anterior, aprendamos de qué manera podemos imprimir por pantalla los resultados para que sean fácilmente legibles por parte del usuario.
+Después de ver cómo construir un diccionario de una complejidad considerable como es el anterior, aprendamos de qué manera podemos imprimir en pantalla los resultados para que sean fácilmente legibles por parte del usuario.
 ![image](md08_diccionarios_assets/impresion_diccionarios.png)  
 
 Imagen: Cómo imprimir de manera selectiva la información de un diccionario.   
