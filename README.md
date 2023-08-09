@@ -22,7 +22,7 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
 1. YouTube vídeo 01 👉 <a href="https://youtu.be/QqwDxQHrx7s01" target="_blank">01 Python en primaria. Instalación en Windows.</a>
 2. YouTube vídeo 02 👉 <a href="https://youtu.be/I8JLpp7z4b4" target="_blank">02 Python en primaria. Mis primeras líneas en el Bloc de notas.</a>
 3. YouTube vídeo 03 👉 <a href="https://youtu.be/ZNVz69yOvHo" target="_blank">03 Python en primaria. Intérpretes de comandos en línea.</a>
-4. YouTube vídeo 04 👉 <a href="https://youtu.be/fYdRvMoMN7E" target="_blank">04 Python en primaria. Replit.com. Conociendo la interfaz.</a>
+4. YouTube vídeo 04 👉️ <a href="https://youtu.be/fYdRvMoMN7E" target="_blank">04 Python en primaria. Replit.com. Conociendo la interfaz.</a>
 5. YouTube vídeo 05 👉 <a href="https://youtu.be/PHpHs-b9vNc" target="_blank">05 Python en primaria. Replit.com. Nuestra clase.</a>
 6. YouTube vídeo 06 👉 <a href="https://youtu.be/A9QLdkVxU-A" target="_blank">06 Python en primaria. Replit.com. Punto de vista del alumno.</a>
 7. YouTube vídeo 07 👉 <a href="https://youtu.be/ocSrxGP6z6U" target="_blank">07 Python en primaria. Replit.com. Desarrollo de una lección.</a>
