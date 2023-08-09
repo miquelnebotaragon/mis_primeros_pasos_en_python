@@ -82,6 +82,13 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md06_trabajando_con_datos_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md06_trabajando_con_datos_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md06_trabajando_con_datos_lessonplan.md" target="_blank">lessonplan.md</a>
+
+* __MD0️⃣7️⃣ Información fija__ 
+![md07](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/f1e362f3-21da-47be-978f-0f9febe89c9a)
+
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md07_informacion_fija_assets" target="_blank">assets</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md07_informacion_fija_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md07_informacion_fija_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
