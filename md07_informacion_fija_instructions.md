@@ -175,7 +175,7 @@ La palabra chimpancé se ha repetido 1 veces.
 La palabra jirafa se ha repetido 1 veces.  
 ---
 ## ➕ Ampliación de conocimientos
-Seguro que hay algo del ejemplo anterior que no te acaba de encajar, puesto que no lo habíamos visto hasta el momento. Fíjate en la captura siguiente 👇️.
+Seguro que hay algo del ejemplo anterior que no te acaba de encajar, puesto que no lo habíamos visto hasta el momento. Fíjate en la captura siguiente 👇️.  
 ![image](md07_informacion_fija_assets/f_strings.png)  
 Imagen: _f-Strings_ en Python.  
 
