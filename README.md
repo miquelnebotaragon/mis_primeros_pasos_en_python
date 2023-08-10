@@ -97,6 +97,13 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md08_diccionarios_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md08_diccionarios_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md08_diccionarios_lessonplan.md" target="_blank">lessonplan.md</a>
+
+* __MD0️⃣9️⃣ Librerías__ 
+![md09](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/541e98ef-1c2c-4b97-8740-cbe38fe76177)
+
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md09_librerias_assets" target="_blank">assets</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md09_librerias_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md09_librerias_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
