@@ -4,6 +4,22 @@
 De manera muy simple, podríamos definir las __librerías__ (también son conocidas como bibliotecas o módulos) como <ins>un conjunto de instrucciones que permiten extender las funcionalidades básicas del lenguaje</ins>, ayudándonos a ahorrar tiempo al no tener que picar todo el código desde cero.
 A día de hoy se computan más de 130.000 librerías en Python que nos facilitan enormemente nuestro trabajo a la hora de programar. Veamos algunos ejemplos:
 
+## ➕ Ampliación de conocimientos
+Para poder utilizar las librerías o módulos, deberás utilizar un editor de código en local y tenerlas previamente instaladas en tu equipo. En el siguiente [vídeo](https://youtu.be/OrrESeNVJSc) te enseñamos cómo hacerlo, por ejemplo, en un Chromebook.
+En ordenadores con sistema operativo Linux (prácticamente todas las distribuciones actuales llevan Python instalado por defecto) será extremadamente sencillo realizar este proceso.  
+
+```console
+// Conecta con Python 2 en Linux o Mac. También sirve para instalar paquetes de Python 3 en Windows.
+pip install module_name
+
+// Conecta con Python 3.
+pip3 install module_name
+```
+
+❗️ Evitemos la elevación de permisos con _sudo_ en Linux. Aunque podemos confiar en la mayoría de librerías, debemos extremar las precauciones para no dejar una puerta abierta al malware.
+
+---
+
 ### Time
 
 Librería [time](https://docs.python.org/3/library/time.html). Empezamos con un ejemplo muy sencillo. Gracias a esta librería podremos (entre otras muchas funciones) detener por ejemplo la ejecución de nuestro programa, los segundos que le marquemos a esta función.  
