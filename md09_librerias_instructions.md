@@ -101,11 +101,11 @@ climograma = pd.DataFrame(datos)
 print(climograma)
 ```
 Resultado:  
-![image](assets/libreria_pandas_ejemplo.png)
+![image](md09_librerias_assets/libreria_pandas_ejemplo.png)
 
 Ejemplo 2: Avanzamos algo más en este segundo ejemplo donde trataremos de que la librería lea los datos incluidos en un archivo CSV (archivo de texto plano con los valores separados por comas "," o punto y coma ";") con información de alumnos para finalmente generar un _dataframe_ (tabla) con dicha información.  
 
-📝 [grupo1.csv](assets/grupo1.csv)
+📝 [grupo1.csv](md09_librerias_assets/grupo1.csv)
 
 ```Python
 # Librerías
@@ -117,7 +117,7 @@ grupo1 = pd.read_csv('grupo1.csv', sep=';',index_col=0)
 print(grupo1)
 ```
 Resultado:  
-![image](assets/libreria_pandas_ejemplo_1.png)
+![image](md09_librerias_assets/libreria_pandas_ejemplo_1.png)
 
 ---
 ### 🔴 MD09 Actividad 02
@@ -160,7 +160,7 @@ escenario.exitonclick()
 ```
 ---
 Resultado:  
-![image](assets/libreria_turtle_cuadro.png)
+![image](md09_librerias_assets/libreria_turtle_cuadro.png)
 
 ---
 ### 🔴 MD09 Actividad 03
