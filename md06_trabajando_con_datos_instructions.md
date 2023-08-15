@@ -318,7 +318,7 @@ Hasta aquí la sexta lección con aspectos básicos sobre Python. Recuerda que d
 2. Tipos de secuencias: listas.
 3. _list_.
 4. Métodos de la clase _list_.
-5. _for_ y _in_ para recorrer los componentes de una lista.
+5. Estructuras de control iterativas: _for_ / _in_  y _while_.
   
 También que:  
 * Los métodos más utilizados para trabajar con listas son:
