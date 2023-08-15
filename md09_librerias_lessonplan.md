@@ -36,7 +36,7 @@ while True: # El bucle estará en ejecución hasta que el usuario adivine el nú
 ```
 
 ### Solución actividad MD09 Actividad 02
-📝 [hoja_gastos_ingresos.csv](assets/grupo1.csv)
+📝 [hoja_gastos_ingresos.csv](md09_librerias_assets/hoja_gastos_ingresos.csv)
 ```Python
 # Librerías
 import pandas as pd
@@ -46,7 +46,7 @@ balance = pd.read_csv('hoja_gastos_ingresos.csv', sep=';', index_col=0)
 
 print(balance)
 ```
-![image](assets/libreria_pandas_ejemplo_2.png)
+![image](md09_librerias_assets/libreria_pandas_ejemplo_2.png)
 
 ### Solución actividad MD09 Actividad 03
 ```Python
@@ -76,7 +76,7 @@ for x in range(4):
 dibujo.hideturtle()
 escenario.exitonclick()
 ```
-![image](assets/libreria_turtle_figura_ejemplo_1.png)
+![image](md09_librerias_assets/libreria_turtle_figura_ejemplo_1.png)
 
 ### Solución actividad MD09 Actividad 04 (opcional)
 ```Python
@@ -107,4 +107,4 @@ for x in range(100):
 dibujo.hideturtle()
 escenario.exitonclick()
 ```
-![image](assets/libreria_turtle_figura_ejemplo_2.png)
+![image](md09_librerias_assets/libreria_turtle_figura_ejemplo_2.png)
