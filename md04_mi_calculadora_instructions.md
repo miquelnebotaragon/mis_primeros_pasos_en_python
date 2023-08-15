@@ -169,7 +169,7 @@ Resultado:
 ## ➕ Ampliación de conocimientos 
 
 Antes de poder continuar con esta segunda actividad del módulo deberemos entender cuáles son los agrupamientos de instrucciones (estructuras de control de flujo) que te van a permitir bifurcaciones (diferentes caminos) en Python. Por ello, empecemos viendo algunas estructuras condicionales:  
-![image](md04_mi_calculadora_assets/estructuras_controlflujo.png)  
+![image](md04_mi_calculadora_assets/estructuras_control_flujo.png)  
 Imagen: Esquema de estructuras de control de flujo.  
 
 👉 La sentencia _(if)_  
