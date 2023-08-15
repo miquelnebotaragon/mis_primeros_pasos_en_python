@@ -135,7 +135,7 @@ Resultado:
 > r
 
 ## ➕➕ Ampliación de conocimientos  
-Subimos algo más el listón y vamos con conceptos algo más avanzados.
+Subimos algo más el listón y complementamos las __estructuras de control de flujo condicionales__ que vimos en el [módulo 4](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md04_mi_calculadora_instructions.md) con otras __iterativas__ utilizando los bucles _for_ y _while_.
 
 👉 Recorrer los elementos de una lista con _for_.
 Seguirá la estructura siguiente:
@@ -158,6 +158,24 @@ Resultado:
 > Juan  
 Carlos  
 Alba  
+
+👉 Ejecutar una misma acción "mientras que..." con _while_.
+Seguirá la estructura siguiente:
+```Python
+# Varialbes
+numero = 1
+
+# Ejecución
+while numero <= 5:
+  print('Este número va avanzando 👉️',numero)
+  numero += 1
+```
+Resultado:
+> Este número va avanzando 👉️ 1  
+Este número va avanzando 👉️ 2  
+Este número va avanzando 👉️ 3  
+Este número va avanzando 👉️ 4  
+Este número va avanzando 👉️ 5
 
 ---
 ### 🔴 MD06 Actividad 04
