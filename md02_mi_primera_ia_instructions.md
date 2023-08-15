@@ -12,19 +12,33 @@
 Imagen: _CPT-programming-variable.svg_ · <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">Wikimedia Commons</a> 
 
 ## ⛏ ¡Empezamos a picar!
-1️⃣ Para asignar un valor a una variable (guardar un valor en memoria) debemos hacerlo usando letras o palabras completas seguidas del signo __"="__ (en programación no hace la misma función que en matemáticas y aquí es el encargado de "asignar" un valor). Veamos una serie de ejemplos:
+1️⃣ Para asignar un valor a una variable (guardar un valor en memoria) debemos hacerlo usando letras o palabras completas seguidas del signo __"="__ (en programación no hace la misma función que en matemáticas y aquí es el encargado de "asignar" un valor).  
+
+❓️ ¿Qué debemos tener en cuenta a la hora de definir variables?
+* Usaremos <ins>siempre letras o palabras en __minúscula__</ins> para intentar dar un nombre concreto y descriptivo a nuestra variable. Ej. a, n, x, nombre, valor, ciudad...
+* Si queremos hacer referencia a <ins>palabras compuestas, utilizaremos el guion bajo</ins> para separarlas __"_"__. Ej. nombre_completo, codigo_postal, nuevo_valor...
+* Utilizaremos el signo igual __"="__ para asignar el valor a nuestra variable. <ins>Antes y después del signo dejaremos un espacio en blanco</ins> (solo 1). Ej. n = 77, nombre = 'Antonio'...
+
+Veamos una serie de ejemplos:  
 
 Ejemplo 1: almacenamos una variable.
 ```python
 a = 5
-```
-```python
-a
+print(a)
 ```
 Resultado:
-> 5 
+> 5   
 
-Ejemplo 2: almacenamos dos variables y calculamos la suma de ambas.
+Ejemplo 2: modificamos el valor de una variable.
+```Python
+a = 5
+a = 100
+print(a)
+```
+Resultado:
+> 100
+
+Ejemplo 3: almacenamos dos variables y calculamos la suma de ambas.
 ```python
 a = 5
 b = 2
@@ -34,7 +48,7 @@ print(x)
 Resultado:
 > 7
 
-Ejemplo 3: anidamos variables en una única línea.
+Ejemplo 4: anidamos variables en una única línea.
 ```python
 valor1,valor2 = [135,409]
 print(valor1)
@@ -44,7 +58,7 @@ Resultado:
 > 135  
 > 409
 
-Ejemplo 4: almacenamos cadenas de texto en una variable. Recuerda, comillas simples o dobles (valen igual).
+Ejemplo 5: almacenamos cadenas de texto en una variable. Recuerda, comillas simples o dobles (valen igual).
 ```python
 mi_nombre = 'Juan Pedro'
 print(mi_nombre)
@@ -52,7 +66,7 @@ print(mi_nombre)
 Resultado:
 >Juan Pedro
 
-Ejemplo 5: almacenamos dos cadenas de texto y las mostramos a la vez en pantalla.
+Ejemplo 6: almacenamos dos cadenas de texto y las mostramos a la vez en pantalla.
 ```python
 alumna1 = 'Carla Domínguez'
 alumno2 = 'Pedro Gomila'
@@ -61,7 +75,7 @@ print(alumna1,alumno2)
 Resultado:
 >Carla Domínguez Pedro Gomila
 
-Ejemplo 6: repetimos las cadenas de texto tantas veces como le indiquemos con "*veces".
+Ejemplo 7: repetimos las cadenas de texto tantas veces como le indiquemos con "*veces".
 ```python
 alimento_favorito = 'Melón'
 print(alimento_favorito * 3)
