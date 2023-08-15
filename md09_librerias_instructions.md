@@ -221,4 +221,5 @@ Hasta aquí la novena lección con aspectos básicos sobre Python. Recuerda que 
 1. Librerías.
 2. Librerías _time_, _random_, _pandas_ y _turtle_.
 3. _Dataframe_.
-4. Archivo CSV.
+4. Bucles: _for_ y _while_.
+5. Archivo CSV.
