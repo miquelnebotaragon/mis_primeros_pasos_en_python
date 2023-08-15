@@ -77,6 +77,15 @@ importante y facilita la comprensión de nuestro código a futuros usuarios.'''
 ```
 Resultado:
 >-
+
+## 👍️ Buenas prácticas
+La codificación (o en inglés _enconding_) no es más que una simple directriz que colocamos al inicio de nuestros programas para indicarle a Python qué conjunto de caracteres utilizaremos a lo largo del mismo. UTF-8 (_Unicode Transformation Format_) es un formato de codificación de caracteres [Unicode](https://home.unicode.org/) que garantizará que nuestro proyecto pueda ser mostrado en cualquier ordenador sin errores ni caracteres extraños.  
+
+```Python
+# -*- coding: utf-8 -*-
+print('Funcionará perfectamente con tildes, ñ... lo que queramos.')
+```
+
 ---
 ### 🔴 MD01 Actividad 02
 
@@ -85,7 +94,9 @@ Haz clic en el archivo __"main.py"__ y, antes de la oración de la Actividad 01,
 Ejemplo:
 
 ```python
+# -*- coding: utf-8 -*-
 # Miquel Nebot · Mayo 2023
+
 print('¡Me encanta esto de ser programador/a!')
 ```
 
