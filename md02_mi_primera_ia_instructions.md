@@ -67,7 +67,7 @@ print(mi_nombre)
 Resultado:
 >Juan Pedro
 
-Ejemplo 6: almacenamos dos cadenas de texto y las mostramos a la vez en pantalla. Lo conseguiremos añadiendo como argumento de la función _print()_ la siguiente variable.
+Ejemplo 6: almacenamos dos cadenas de texto y las mostramos a la vez en pantalla. Lo conseguiremos añadiendo como argumento de la función _print()_ la variable 2, 3...
 ```python
 alumna1 = 'Carla Domínguez'
 alumno2 = 'Pedro Gomila'
@@ -83,6 +83,24 @@ print(alimento_favorito * 3)
 ```
 Resultado:
 >MelónMelónMelón
+
+Ejemplo 8: modificamos el tipo de dato introducido.
+```Python
+# Establecemos una variable en formato de número entero
+primer_numero = 27
+print(primer_numero)
+print(type(primer_numero)
+
+# Le decimos a PYthon que esta variable pasará a ser una cadena de texto
+cambio_primer_numero = str(primer_numero)
+print(cambio_primer_numero)
+print(type(cambio_primer_numero)
+````
+Resultado:
+> 27
+<class 'int'>  
+27  
+<class 'str'>
 
 ---
 ❗ __Palabras reservadas en Python__  
@@ -103,9 +121,7 @@ amigo1 = 'Juan'
 amigo2 = 'Carla'
 amigo3 = 'Alba'
 
-'''Ejecución de la función anidando
-como argumentos de la función las
-demás variables'''
+# Ejecución de la función
 print(amigo1,amigo2,amigo3)
 ```
 Resultado:
