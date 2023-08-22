@@ -95,17 +95,18 @@ print(type(primer_numero)
 cambio_primer_numero = str(primer_numero)
 print(cambio_primer_numero)
 print(type(cambio_primer_numero)
-
+```
+```Python
 # Intentamos sumarle 3 a 27... Arrojará error porque ya NO es un número
 print(cambio_primer_numero + 3)
-````
+```
 Resultado:
 > 27  
 <class 'int'>  
 27  
 <class 'str'>
 
->print(cambio_primer_numero + 3)
+>print(cambio_primer_numero + 3)  
           ~~~~~~~~~~~~~~~~~~~~~^~~
 TypeError: can only concatenate str (not "int") to str
 
