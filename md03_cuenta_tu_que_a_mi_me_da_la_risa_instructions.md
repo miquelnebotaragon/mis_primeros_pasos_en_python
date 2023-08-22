@@ -22,7 +22,7 @@ A lo largo de los módulos anteriores hemos hablado largo y tendido sobre las ca
 Ejemplo de cadena de texto _(str)_: 'Manuel de Falla fue un gran compositor.'  
 
 ## ➕ Ampliación de conocimientos  
-👉 Python incorpora muchas funciones para trabajar de manera cómoda con cadenas de texto. Por ejemplo, si queremos saber la longitud de una cadena será tan sencillo como añadirle __len()__ para que nos muestre en pantalla cuantas letras componen nuestro _string_.
+👉 Python, en su instalación básica, dispone de muchas [funciones integradas](https://www-w3schools-com.translate.goog/python/python_ref_functions.asp?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) de las cuales no nos tendremos que preocupar (no hay que instalar ni configuar nada) y nos servirán para trabajar de manera cómoda con cadenas de texto y otros tipos de datos. Por ejemplo, si queremos saber la longitud de una cadena, será tan sencillo como añadirle __len()__ para que nos muestre en pantalla cuántas letras componen nuestro _string_.
 
 ````Python
 print(len('En un lugar de la Mancha, de cuyo nombre no quiero acordarme...'))
