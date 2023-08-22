@@ -16,7 +16,7 @@ Imagen: _CPT-programming-variable.svg_ · <a href="https://creativecommons.org/p
 
 ❓️ ¿Qué debemos tener en cuenta a la hora de definir variables?
 * Usaremos <ins>siempre letras o palabras en __minúscula__</ins> para intentar dar un nombre concreto y descriptivo a nuestra variable. Ej. a, n, x, nombre, valor, ciudad...
-* Si queremos hacer referencia a <ins>palabras compuestas, utilizaremos el guion bajo</ins> para separarlas __"_"__ (en programación, estilo de escritura llamado _snake case_). Ej. nombre_completo, codigo_postal, nuevo_valor...
+* Si queremos hacer referencia a <ins>palabras compuestas, utilizaremos el guion bajo</ins> para separarlas __"_"__ (en programación, estilo de escritura conocido como _snake case_). Ej. nombre_completo, codigo_postal, nuevo_valor...
 * Utilizaremos el signo igual __"="__ para asignar el valor a nuestra variable. <ins>Antes y después del signo dejaremos un espacio en blanco</ins> (solo 1). Ej. n = 77, nombre = 'Antonio'...
 * Si en lugar de definir una variable queremos disponer de <ins>constantes, lo haremos usando letras mayúsculas</ins>. Ej. MI_NOMBRE = 'Miquel'.
 
@@ -67,7 +67,7 @@ print(mi_nombre)
 Resultado:
 >Juan Pedro
 
-Ejemplo 6: almacenamos dos cadenas de texto y las mostramos a la vez en pantalla.
+Ejemplo 6: almacenamos dos cadenas de texto y las mostramos a la vez en pantalla. Lo conseguiremos añadiendo como argumento de la función _print()_ la siguiente variable.
 ```python
 alumna1 = 'Carla Domínguez'
 alumno2 = 'Pedro Gomila'
@@ -103,7 +103,9 @@ amigo1 = 'Juan'
 amigo2 = 'Carla'
 amigo3 = 'Alba'
 
-# Ejecución de la instrucción
+'''Ejecución de la función anidando
+como argumentos de la función las
+demás variables'''
 print(amigo1,amigo2,amigo3)
 ```
 Resultado:
