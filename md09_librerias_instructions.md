@@ -1,9 +1,10 @@
 # Módulo 09. Librerías
 
 ## ❓ ¿Qué son las librerías? ¿Para qué sirven? ¿Cuántas hay?
-De manera muy simple, podríamos definir las __librerías__ (también son conocidas como bibliotecas o módulos) como <ins>un conjunto de instrucciones que permiten extender las funcionalidades básicas del lenguaje</ins>, ayudándonos a ahorrar tiempo al no tener que picar todo el código desde cero.
+De manera muy simple, podríamos definir las __librerías__ (también son conocidas como bibliotecas o módulos) como <ins>un conjunto de instrucciones que permiten extender las funcionalidades básicas del lenguaje</ins> ayudándonos a ahorrar tiempo al no tener que picar todo el código desde cero.
 A día de hoy se computan más de 130.000 librerías en Python que nos facilitan enormemente nuestro trabajo a la hora de programar. Veamos algunos ejemplos:
 
+---
 ## ➕ Ampliación de conocimientos
 Para poder utilizar las librerías o módulos, deberás utilizar un editor de código en local y tenerlas previamente instaladas en tu equipo. En el siguiente [vídeo](https://youtu.be/OrrESeNVJSc) te enseñamos cómo hacerlo, por ejemplo, en un Chromebook.
 En ordenadores con sistema operativo Linux (prácticamente todas las distribuciones actuales llevan Python instalado por defecto) será extremadamente sencillo realizar este proceso.  
@@ -16,7 +17,7 @@ pip install module_name
 pip3 install module_name
 ```
 
-❗️ Evitemos la elevación de permisos con _sudo_ en Linux. Aunque podemos confiar en la mayoría de librerías, debemos extremar las precauciones para no dejar una puerta abierta al malware.
+❗️ Evitemos la elevación de permisos con _sudo_ en Linux. Aunque podemos confiar en la mayoría de librerías, debemos extremar las precauciones para no dejar una puerta abierta al [malware](https://es.wikipedia.org/wiki/Malware).
 
 ---
 
@@ -41,7 +42,8 @@ quiere = int(input('\n¿Quieres saber cuántas letras tiene tu nombre? 1 para s�
 
 if quiere == 1:
     print(len(nombre))
-    time.sleep('¡Gracias por utilizar el servicio!')
+    time.sleep(1)
+    print('¡Gracias por utilizar el servicio!')
 else:
     print('Gracias y que pases muy buen día.')
 ```
@@ -180,11 +182,11 @@ Resultado:
 
 ---
 ### 🔴 MD09 Actividad 03
-Utilizando la librería _"turtle"_, documéntate en la red, busca ejemplos y da rienda suelta a tu imaginación... ¡Crea la figura que más te guste!
+Utilizando la librería _"turtle"_, documéntate en la red, busca ejemplos y da rienda suelta a tu imaginación... <ins>¡Crea la figura que más te guste!</ins>
 ___
 
 ### 👌 MD09 Actividad 04
-Veamos ahora todo el potencial de _"turtle"_ en este ejemplo 100 % guiado. ¿Te animas a construir una figura repleta de color? ¡Fíjate que es sencillísimo!
+Veamos ahora todo el potencial de _"turtle"_ en este ejemplo 100 % guiado. <ins>¿Te animas a construir una figura repleta de color?</ins> ¡Fíjate que es sencillísimo!
 ```Python
 # Importamos las librerías necesarias
 from turtle import Screen, Turtle
