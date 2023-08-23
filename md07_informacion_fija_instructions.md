@@ -116,7 +116,7 @@ Resultado:
 
 ---
 ### 🔴 MD07 Actividad 01
-Crea un conjunto de secuencias de datos y haz que tu programa sea capaz de identificar qué es una cadena de texto, una lista y una tupla.
+Crea un conjunto de secuencias de datos y haz que tu programa sea capaz de <ins>identificar qué es una cadena de texto, una lista y una tupla</ins>.
 Fíjate en el ejemplo:
 ```Python
 # Variables
@@ -150,7 +150,7 @@ Resultado:
 ### 🔴 MD07 Actividad 02
 Estas son las notas de Abelardo de la asignatura de Matemáticas de todo el curso:
 Notable, Excelente, Notable, Notable, Bien, Excelente, Bien, Suficiente, Notable y Notable.
-Introduce las notas de Abelardo en una tupla y cuenta cuántas veces se repite cada calificación. Finalmente, indica mediante mensajes de texto cuántas veces se ha repetido cada nota.
+<ins>Introduce las notas de Abelardo en una tupla y cuenta cuántas veces se repite cada calificación</ins>. Finalmente, indica mediante mensajes de texto <ins>cuántas veces se ha repetido cada nota</ins>.
 Fíjate en el ejemplo, ya que lo podemos complicar tanto como queramos:
 ```Python
 # Variables
