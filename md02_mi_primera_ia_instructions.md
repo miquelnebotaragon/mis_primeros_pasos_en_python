@@ -89,23 +89,29 @@ Ejemplo 8: modificamos el tipo de dato introducido.
 # Establecemos una variable en formato de número entero
 primer_numero = 27
 print(primer_numero)
-print(type(primer_numero)
-
-# Le decimos a PYthon que esta variable pasará a ser una cadena de texto
-cambio_primer_numero = str(primer_numero)
-print(cambio_primer_numero)
-print(type(cambio_primer_numero)
-```
-```Python
-# Intentamos sumarle 3 a 27... Arrojará error porque ya NO es un número
-print(cambio_primer_numero + 3)
+print(type(primer_numero)) # La función _type()_ nos indicará de qué tipo de valor se trata.
 ```
 Resultado:
 > 27  
-<class 'int'>  
-27  
+<class 'int'>
+
+```Python 
+''' Continuando con el ejemplo anterior 👆️, le decimos a Python que esta variable
+pasará a ser una cadena de texto '''
+
+cambio_primer_numero = str(primer_numero) # str para cambiar a _string_.
+print(cambio_primer_numero)
+print(type(cambio_primer_numero))
+```
+Resultado:
+>27  
 <class 'str'>
 
+```Python
+# Intentamos sumarle 3 al 27 anterior y arrojará error porque ya NO es un número
+print(cambio_primer_numero + 3)
+```
+Resultado:
 >print(cambio_primer_numero + 3)  
           ~~~~~~~~~~~~~~~~~~~~~^~~
 TypeError: can only concatenate str (not "int") to str
@@ -119,7 +125,7 @@ Imagen: Intérprete de comandos en línea _python.org_ · <a href="https://www.p
 
 ---
 ### 🔴 MD02 Actividad 01
-Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>escribe un total de tres variables que se muestren en pantalla a la vez</ins> con el comando __print()__.  
+Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>escribe un total de tres variables que se muestren en pantalla a la vez</ins> con la función __print()__.  
 
 Ejemplo:
 
@@ -136,7 +142,7 @@ Resultado:
 > Juan Carla Alba
 
 ---
-2️⃣ Podemos conseguir que sea el usuario/a quien introduzca el valor a almacenar, lo haremos usando la instrucción __input()__. Fíjate en el ejemplo:  
+2️⃣ Podemos conseguir que sea el usuario/a quien introduzca el valor a almacenar, lo haremos usando la función __input()__. Fíjate en el ejemplo:  
 
 Ejemplo 1:
 ```Python
@@ -160,7 +166,7 @@ Resultado:
 
 ---
 ### 🔴 MD02 Actividad 02
-Continuando con el ejemplo anterior, añade la instrucción necesaria para que el programa te haga introducir tu nombre y muestre en pantalla los nombres de tus amigos. Puedes personalizar el texto tanto como quieras para que quede una oración lo más cuidada posible.
+Continuando con el ejemplo anterior, añade la función necesaria para que el programa te haga introducir tu nombre y muestre en pantalla los nombres de tus amigos. Puedes personalizar el texto tanto como quieras para que quede una oración lo más cuidada posible.
 ````Python
 # Variables
 amigo1 = 'Juan'
@@ -195,7 +201,7 @@ Resultado:
 
 
 ### 👉 Separadores
-Como supongo que ya habrás notado, cada vez que en el comando __print()__ separamos con comas los elementos, la misma sintaxis introduce un espacio entre los elementos. Si queremos cambiar el tipo de separador lo haremos añadiendo __sep = 'cualquier_elemento'__ a los argumentos de la instrucción.  
+Como supongo que ya habrás notado, cada vez que en la función __print()__ separamos con comas los elementos, la misma sintaxis introduce un espacio entre los elementos. Si queremos cambiar el tipo de separador lo haremos añadiendo __sep = 'cualquier_elemento'__ a los argumentos de la función.  
 Ejemplo:
 ````Python
 print('cebollas','patatas','puerros','calabacín',sep=',')
@@ -208,7 +214,7 @@ Si al elemento separador anterior le añadimos un espacio detrás de la coma __(
 >cebollas, patatas, puerros, calabacín
 
 ### 👉 Finalizar
-También podemos añadir punto al final añadiendo __end = '.'__ a los argumentos de la instrucción para indicarle a Python que será el punto el signo que acabará nuestra oración.  
+También podemos añadir punto al final añadiendo __end = '.'__ a los argumentos de la función para indicarle a Python que será el punto el signo que acabará nuestra oración.  
 Ejemplo:
 ````Python
 print('Estoy practicando como mostrar texto en Python',end='.')
@@ -220,7 +226,7 @@ Resultado:
 ### 👉 Caracteres especiales
 Se puede dar el caso que necesitemos escribir unas comillas __\" "__ o una barra invertida __"\\"__, por ejemplo, y no vamos a ser capaces de hacerlo si no tenemos en cuenta que es la misma barra invertida la que hace de elemento de escape ("borra" la función habitual de dichos elementos).  
 
-Ejemplo 1: si en el comando __print()__ utilizamos comillas dobles aún será algo más complicado. Veamos:
+Ejemplo 1: si en la función __print()__ utilizamos comillas dobles aún será algo más complicado. Veamos:
 ````Python
 print("Quiero escribir unas comillas \"\"",end='.')
 ````
