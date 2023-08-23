@@ -49,7 +49,7 @@ Resultado:
 Como podéis ver, aunque hemos juntado dos funciones en una misma línea (opción poco recomendable, ya que dificulta la lectura del código en caso de tener que analizarlo, reutilizarlo, depurarlo...), el resultado lo secciona en dos.
 
 Si se diera el caso (poco probable) que necesitáramos utilizar diversas líneas para la misma instrucción, podemos forzar el salto de línea con el símbolo barra invertida __"\\\"__. 
-
+ 
 Ejemplo:
  
  ```python
@@ -59,6 +59,8 @@ en diferentes líneas utilizando barra invertida, \
 ```
 Resultado:
 >Esto sería organizar funciones en diferentes líneas utilizando barra invertida, ¿veis qué bien?
+
+❗️ Al hilo de todo lo explicado en este apartado, comentar que en algunas guías de estilo se recomienda no exceder de los __79 caracteres por línea__ en Python.  
 
 ## 💡 Vale... ¿y si quiero explicar mi código?
 
