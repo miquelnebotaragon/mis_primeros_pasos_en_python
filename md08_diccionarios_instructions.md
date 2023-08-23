@@ -125,7 +125,7 @@ Imagen: Funciones interesantes para las secuencias de datos.
 
 ---
 ### 🔴 MD08 Actividad 01
-Continuando con el ejemplo anterior, construye a continuación un diccionario con los datos siguientes de 5 de tus compañeros/as de clase. Fíjate cómo se hace para anidar un diccionario dentro de otro.
+Continuando con el ejemplo anterior, <ins>construye a continuación un diccionario con los datos siguientes de 5 de tus compañeros/as de clase</ins>. Fíjate cómo se hace para anidar un diccionario dentro de otro.
 * Número de lista
 * Nombre
 * Apellido 1
@@ -150,7 +150,7 @@ Resultado:
 AL2>Macarena  
 ---
 ### 👌 MD08 Actividad 02 (opcional)
-A partir del diccionario anterior, haz que tu programa muestre en pantalla la información detallada de cada alumno/a. Podría tener el siguiente formato:
+A partir del diccionario anterior, <ins>haz que tu programa muestre en pantalla la información detallada de cada alumno/a</ins>. Podría tener el siguiente formato:
 > AL1 > Carlos Alzamora Garau - 28_02_2012
 ---
 
