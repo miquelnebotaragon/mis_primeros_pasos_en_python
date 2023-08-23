@@ -42,9 +42,11 @@ y = 2
 
 # Ejecución
 print(x/y)
+print(type(x/y))
 ````
 Resultado:
-> 12.5
+> 12.5  
+<class 'float'>
 
 ---
 ### 🔴 MD04 Actividad 01
@@ -122,7 +124,7 @@ print(n1,'-',n2,'=',n1-n2)
 Resultado:
 > 112 - 9 = 103
 
-Ejemplo 3: multiplicación de dos números.  
+Ejemplo 3: producto de dos números.  
 ````Python
 # Variables
 n1 = 9
@@ -168,7 +170,7 @@ Resultado:
 
 ## ➕ Ampliación de conocimientos 
 
-Antes de poder continuar con esta segunda actividad del módulo deberemos entender cuáles son los agrupamientos de instrucciones (estructuras de control de flujo) que te van a permitir bifurcaciones (diferentes caminos) en Python. Por ello, empecemos viendo algunas estructuras condicionales:  
+Antes de poder continuar con esta segunda actividad del módulo, deberemos entender cuáles son los agrupamientos de instrucciones (estructuras de control de flujo) que te van a permitir bifurcaciones (diferentes caminos) en Python. Por ello, empecemos viendo algunas estructuras condicionales:  
 ![image](md04_mi_calculadora_assets/estructuras_control_flujo.png)  
 Imagen: Esquema de estructuras de control de flujo.  
 
@@ -190,7 +192,7 @@ Resultado:
 > El primer número es mayor.
 
 👉 La sentencia _(else)_   
-Opcionalmente y acompañando a la sentencia _(if)_ (o a la que veremos a continuación _(elif)_) puedes agregar una respuesta _(else)_ que se ejecutará si la condición inicial no se cumple, es decir, es _FALSE_.  
+Opcionalmente y acompañando a la sentencia _(if)_ (o a la que veremos a continuación _(elif)_) puedes agregar una respuesta _(else)_ que se ejecutará si la condición inicial no se cumple, es decir, es _False_.  
 
 Ejemplo: veamos como completar el ejemplo anterior.
  
@@ -245,7 +247,8 @@ Imagen: Añadir nuevo archivo de Python · <a href="https://replit.com">Replit</
 ## ➕ Ampliación de conocimientos
 👉 Los bucles _(while)_ 
 
-Antes de finalizar este cuarto módulo y, para que intentes llevar a cabo la última actividad voluntaria (👌 MD04 Actividad 03 👇), nos familiarizaremos con las estructuras de programación conocidas como __bucles__ _(while)_ (en castellano lo podríamos traducir por "mientras").  
+Antes de finalizar este cuarto módulo y, para que intentes llevar a cabo la última actividad voluntaria (👌 MD04 Actividad 03 👇), nos familiarizaremos también con las estructuras de control de flujo iterativas conocidas como __bucles__ más en concreto con _(while)_ (en castellano lo podríamos traducir por "mientras").  
+❗️ Otra estructura iterativa de bucle como es _(for)_ la trabajaremos mediante ejemplos en el módulo   
 
 Utilizamos los bucles para repetir una secuencia de instrucciones o sentencias (cada una de las repeticiones se llama _iteración_) un número indefinido de veces. Este ciclo se repetirá siempre que la condición dada sea verdadera _(TRUE)_ y solo parará si es falsa _(FALSE)_.  
 
@@ -328,7 +331,7 @@ numero1 = float(input("Introduce ahora tu primer número: ") )
 numero2 = float(input("Introduce a continuación tu segundo número: ") )
 
 while True:
-    print("""
+    print('''
     ¿Qué tipo de operación deseas realizar ahora?
     
     1) Sumar
@@ -337,8 +340,8 @@ while True:
     4) Dividir
     5) Introducir nuevos valores
     6) Salir
-    """)
-    opcion = int(input("Elige una opción: ") )     
+    ''')
+    opcion = int(input('Elige una opción: ') )     
 
     if opcion == 1:
         print('')
@@ -358,7 +361,7 @@ while True:
     elif opcion == 6:
         break
     else:
-        print("¡Opción incorrecta!")
+        print('¡Opción incorrecta!')
 
 ```  
 Resultado:
