@@ -22,12 +22,12 @@ A lo largo de los módulos anteriores hemos hablado largo y tendido sobre las ca
 Ejemplo de cadena de texto _(str)_: 'Manuel de Falla fue un gran compositor.'  
 
 ## ➕ Ampliación de conocimientos  
-👉 Python, en su instalación básica, dispone de muchas [funciones integradas](https://www-w3schools-com.translate.goog/python/python_ref_functions.asp?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) de las cuales no nos tendremos que preocupar (no hay que instalar ni configuar nada) y nos servirán para trabajar de manera cómoda con cadenas de texto y otros tipos de datos. Por ejemplo, si queremos saber la longitud de una cadena, será tan sencillo como añadirle __len()__ para que nos muestre en pantalla cuántas letras componen nuestro _string_.
+👉 Python, en su instalación por defecto, pone a disposición del usuario muchas [funciones integradas](https://www-w3schools-com.translate.goog/python/python_ref_functions.asp?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) de las cuales no nos tendremos que preocupar (no hay que instalar ni configuar nada) y nos servirán para trabajar de manera cómoda con cadenas de texto y otros tipos de datos. Por ejemplo, si queremos saber la longitud de una cadena, será tan sencillo como añadirle __len()__ para que nos muestre en pantalla cuántas letras componen nuestro _string_.
 
 ````Python
 print(len('En un lugar de la Mancha, de cuyo nombre no quiero acordarme...'))
 ````
-Resultado: ¡cuidado! Los espacios en blanco cuentan también como elementos de la cadena.
+Resultado: ¡Cuidado! Los espacios en blanco cuentan también como elementos de la cadena.
 > 63
 
 👉 Otra función que puede resultarte interesante es __split()__ que se encarga de separar una cadena de texto a partir de un carácter determinado, por ejemplo, una coma.
@@ -91,10 +91,10 @@ Texto: Generado a través de IA en https://chat.openai.com para la actividad MD0
 
 ---
 ### 🔴 MD03 Actividad 03
-Después de llevar a cabo el ejercicio anterior, es normal que te haya dado de resultado "1", ya que le hemos dicho al programa que el término exacto que debe buscar es "fijaos" y otras variantes como "Fijaos" con la primera "F" mayúscula no las tiene en cuenta. 
+Después de llevar a cabo el ejercicio anterior, es normal que te haya dado de resultado "1", ya que le hemos dicho al programa que el término exacto que debe buscar es "fijaos" y otras variantes como "Fijaos" con la primera "F" mayúscula, no las tiene en cuenta. 
 Revisa la información anterior y mira a ver si con _upper_ o _lower_ podrías poner remedio al problema.  
 
-En el archivo __"main.py"__ corrige tu programación hasta que te dé 8 la cantidad de veces que se repite la palabra.
+En el archivo __"main.py"__ corrige tu programación hasta que te dé 8 (que es la cantidad real de veces que se repite la palabra).
 
 ---
 # 🤗 Resumen del Módulo 3
