@@ -327,8 +327,8 @@ Resultado:
 Para finalizar, <ins>¿te animas a programar una auténtica calculadora?</ins> Presta mucha atención porque tendremos que utilizar los nuevos conceptos estudiados anteriormente. De todos modos, no te preocupes, ya que esta es una actividad guiada por completo, es decir, podrás ir copiando el código en tu archivo de Python e ir personalizándolo a tu gusto.
 
 ```Python
-numero1 = float(input("Introduce ahora tu primer número: ") )
-numero2 = float(input("Introduce a continuación tu segundo número: ") )
+numero1 = float(input('Introduce ahora tu primer número: ') )
+numero2 = float(input('Introduce a continuación tu segundo número: ') )
 
 while True:
     print('''
