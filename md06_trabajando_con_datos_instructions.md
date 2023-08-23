@@ -135,7 +135,7 @@ Resultado:
 > r
 
 ## ➕➕ Ampliación de conocimientos  
-Subimos algo más el listón y complementamos las __estructuras de control de flujo condicionales__ que vimos en el [módulo 4](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md04_mi_calculadora_instructions.md) con otras __iterativas__ utilizando los bucles _for_ y _while_.
+Subimos algo más el listón y complementamos las __estructuras de control de flujo condicionales__ que vimos en el [módulo 4](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md04_mi_calculadora_instructions.md) con otras __iterativas__ utilizando los bucles _for_ y el ya trabajado, _while_.
 
 👉 Recorrer los elementos de una lista con _for_.
 Seguirá la estructura siguiente:
@@ -318,7 +318,7 @@ Hasta aquí la sexta lección con aspectos básicos sobre Python. Recuerda que d
 2. Tipos de secuencias: listas.
 3. _list_.
 4. Métodos de la clase _list_.
-5. Estructuras de control iterativas: _for_ / _in_  y _while_.
+5. Estructuras de control iterativas (bucles): _for_ / _in_  y _while_.
   
 También que:  
 * Los métodos más utilizados para trabajar con listas son:
