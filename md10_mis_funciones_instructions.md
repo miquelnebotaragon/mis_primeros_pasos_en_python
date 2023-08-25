@@ -1,7 +1,8 @@
-# Módulo 10. Definición o declaración de funiciones
+# Módulo 10. Definición o declaración de funciones
 
 ## ❓ ¿Qué es una función? 
-9 lecciones atrás nos embarcamos en el reto de aprender Python de manera simple y le dimos la bienvenida usando una función integrada por defecto como es _print()_. Después de esta, hemos ido viendo muchas otras que nos han ayudado a resolver los retos propuestos... pero, ¿qué es una función?  
+9 lecciones atrás nos embarcamos en el reto de aprender Python de manera simple y le dimos la bienvenida usando una función integrada por defecto como es _print()_. Después de esta, hemos ido viendo muchas otras que nos han ayudado a resolver los retos propuestos además de librerías complejas que están repletas de ellas... pero, ¿qué es una función?  
+
 __Una función es un bloque reutilizable de código que ha sido construido para realizar una función determinada__. Así pues, por ejemplo, la función _print()_ ha sido diseñada para mostrar en pantalla los resultados de las operaciones solicitadas.
 
 Ejemplo:  
@@ -11,11 +12,14 @@ poblacion = 48345223
 
 print(f'La población española se situó en {poblacion} habitantes a 1 de julio de 2023.')
 ```
+Resultado:
+> La población española se situó en 48345223 habitantes a 1 de julio de 2023.
+
 ## ❓️ ¿Puedo definir mis propias funciones?
 ¡Claro que sí! En eso consiste la programación, debemos aventurarnos a desarrollar bloques de código o declaraciones que podamos reutilizar a lo largo de un mismo programa.  
-Para poder hacerlo Python utiliza la palabra clave _def_ y sigue la estructura siguiente:  
+Para poder hacerlo, Python utiliza la palabra clave _def_ seguida del nombre de la función y de sus parámetros entre paréntesis. La estructura es la siguiente:  
 
-   
+![image](md10_mis_funciones_assets/declaracion_funciones.png)
 
 Veamos a continuación y mediante una serie de ejemplos cómo podríamos declarar funciones y posteriormente llamarlas para que se ejecutasen.  
 
@@ -33,7 +37,7 @@ Resultado:
 A continuación, el segundo sumando: 20  
 El resultado de la suma de 10 y 20 es 30.  
 
-👉️ Ejemplo 2: como hemos visto en el ejemplo anterior <ins>nuestra función debe retornarnos un valor</ins> por lo que podemos utilizar _return ()_ para conseguir el mismo resultado.
+👉️ Ejemplo 2: como hemos visto en el ejemplo anterior, <ins>nuestra función debe retornarnos un valor</ins> por lo que podemos utilizar _return ()_ para conseguir el mismo resultado.
 ```Python
 def sumar ():
     n1 = int(input('Introduce el primer sumando: ' ))
@@ -139,7 +143,7 @@ Fíjate en el ejemplo anterior (_Ejemplo 6_) y <ins>redefine la función _calcul
 
 ---
 ### 🔴 MD10 Actividad 03
-Define ahora tú una función que te ayude a <ins>calcular el área de un triángulo</ins>. Deberás hacer que se el propio usuario quien te introduzca los datos necesarios para realizar el cálculo (base y altura).
+Define ahora tú una función que te ayude a <ins>calcular el área de un triángulo</ins>. Deberás hacer que sea el propio usuario quien te introduzca los datos necesarios para realizar el cálculo (base y altura).
 
 ---
 
