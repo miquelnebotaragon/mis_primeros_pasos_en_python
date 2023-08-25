@@ -109,7 +109,7 @@ print(saludo('Ángel'))
 Resultado:
 > Ángel, bienvenido/a a mi aplicación.  
 
-👉️ Ejemplo 5: también podría darse que el parámetro fuese fijo...
+👉️ Ejemplo 5: también podría darse que el <ins>parámetro fuese fijo...</ins>
 ```Python
 def saludo(nombre = 'Charly'):
     mensaje = nombre + ', bienvenido/a a mi aplicación.'
