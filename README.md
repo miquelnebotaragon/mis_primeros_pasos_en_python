@@ -104,6 +104,13 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md09_librerias_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md09_librerias_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md09_librerias_lessonplan.md" target="_blank">lessonplan.md</a>
+
+* __MD1️⃣0️⃣ Mis funciones__  
+![md10](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/d5526f6e-7c24-4184-84fb-df757550a25a)
+
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md10_mis_funciones_assets" target="_blank">assets</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_instructions.md" target="_blank">instructions.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
