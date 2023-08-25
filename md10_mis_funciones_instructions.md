@@ -152,7 +152,7 @@ Define ahora tú una función que te ayude a <ins>calcular el área de un trián
 
 Hasta aquí la décima lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
 1. Declaración de una función.
-2. _def ()_.
+2. _def nombre_funcion ()_.
 3. Parámetros.
 4. Sentencias condicionales.
 5. Bucles.
