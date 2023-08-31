@@ -118,7 +118,9 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
   
 # 🛠️ Una semana un reto
 Una vez completados con éxito los 10 módulos de _"Mis primeros pasos en Python"_, ¿por qué no divertirnos y seguir practicando con un reto semanal?  
-A continuación te presento una serie de breves actividades que te serán de gran ayuda para afianzar tus conocimientos en este apasionante lenguaje. 
+A continuación te presento una serie de breves actividades que te serán de gran ayuda para afianzar tus conocimientos en este apasionante lenguaje.  
+
+❓️ Haz clic en los enlaces siguientes 👇️, inicia sesión con tu cuenta de Google y [haz copia de los archivos](/images/colab_guardar_copia.png) para guardarlos en tu unidad y poder trabajar libremente con ellos. 
 
 * Proyecto 01 · 🧮 [__Vamos a contar letras__](https://colab.research.google.com/drive/15BJjqyFbl2DFmkCv6kXpsI6LH3Ip-u--?usp=sharing)
 * Proyecto 02 · ⚙️ __Desarrollamos una calculadora__
