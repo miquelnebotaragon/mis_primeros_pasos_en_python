@@ -16,8 +16,9 @@ _Mis primeros pasos en Python_ es un conjunto de actividades y recursos de inici
 Python es uno de los lenguajes de programación más exitosos del momento ya que resulta muy sencillo de aprender y también de leer. Este conjunto organizado de materiales servirá para que los docentes interesados puedan incorporar un nuevo lenguaje entre el alumnado que quiera seguir progresando en este campo. Aunque no es imprescindible, sí que es recomendable que hayan tenido experiencia en programación mediante bloques (Scratch, por ejemplo) con anterioridad.
 
 # 💻 Escenario
-· Para llevar a cabo el proyecto recomendamos utilizar el intérprete de comandos en línea y colaborativo, [replit.com](https://replit.com) que destaca porsu sencillez y características exclusivas para el sector educativo.    
-➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace.  
+· Para llevar a cabo el proyecto recomendamos utilizar el intérprete de comandos en línea y colaborativo, [replit.com](https://replit.com) que destaca porsu sencillez y características exclusivas para el sector educativo.  
+· ➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos, además de _replit_, podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace (también en las versiones personales).  
+
 ❗️ Atención: Google Colab [no está cubierto](/images/colab_acuerdo_licencia.png) por el contrato de Google Workspace para centros educativos. Deberemos solicitar consentimiento expreso por escrito a padres y/o tutores de nuestro alumnado para utilizar dicho servicio.  
 ❗️ Activación del servicio: por defecto se encuentra deshabilitado en nuestra consola de administración. Deberemos solicitar a nuestro/a administrador/a que lo [active](/images/colab_activacion_uo.png) para las unidades organizativas que lo vayan a utilizar.
 
@@ -116,8 +117,14 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🛠️ Una semana un reto
-Una vez completados con éxito los 10 módulos de "Mis primeros pasos en Python", ¿por qué no divertirnos con un reto semanal?  
-A continuación te presento una serie de actividades breves que te servirán para afianzar tus conocimientos en este apasionante lenguaje.  
+Una vez completados con éxito los 10 módulos de _"Mis primeros pasos en Python"_, ¿por qué no divertirnos y seguir practicando con un reto semanal?  
+A continuación te presento una serie de breves actividades que te serán de gran ayuda para afianzar tus conocimientos en este apasionante lenguaje. 
+
+* Proyecto 01 · 🧮 [__Vamos a contar letras__](https://colab.research.google.com/drive/15BJjqyFbl2DFmkCv6kXpsI6LH3Ip-u--?usp=sharing)
+* Proyecto 02 · ⚙️ __Desarrollamos una calculadora__
+* Proyecto 03 · 🕯️ __Tarot__
+* Proyecto 04 · 📐 __Calculando áreeas__
+* Proyecto 05 · 🈹  [__Calculadora de descuentos__](https://colab.research.google.com/drive/1PheXGXHLeNwtp2ptMeueJj4hUi6Mf64n?usp=sharing)
 
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
