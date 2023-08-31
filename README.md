@@ -16,7 +16,8 @@ _Mis primeros pasos en Python_ es un conjunto de actividades y recursos de inici
 Python es uno de los lenguajes de programación más exitosos del momento ya que resulta muy sencillo de aprender y también de leer. Este conjunto organizado de materiales servirá para que los docentes interesados puedan incorporar un nuevo lenguaje entre el alumnado que quiera seguir progresando en este campo. Aunque no es imprescindible, sí que es recomendable que hayan tenido experiencia en programación mediante bloques (Scratch, por ejemplo) con anterioridad.
 
 # 💻 Escenario
-Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea y colaborativo, replit.com.
+· Para llevar a cabo el proyecto recomendamos utilizar el intérprete de comandos en línea y colaborativo, [replit.com](https://replit.com) que destaca porsu sencillez y características exclusivas para el sector educativo.    
+· ➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace. 
 
 # 0️⃣ Antes de empezar
 1. YouTube vídeo 01 👉 <a href="https://youtu.be/QqwDxQHrx7s01" target="_blank">01 Python en primaria. Instalación en Windows.</a>
@@ -112,6 +113,10 @@ Para llevar a cabo el proyecto utilizaremos el intérprete de comandos en línea
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_instructions.md" target="_blank">instructions.md</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_lessonplan.md" target="_blank">lessonplan.md</a>
   
+# 🛠️ Una semana un reto
+Una vez completados con éxito los 10 módulos de "Mis primeros pasos en Python", ¿por qué no divertirnos con un reto semanal?  
+A continuación te presento una serie de actividades breves que te servirán para afianzar tus conocimientos en este apasionante lenguaje.  
+
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
 
