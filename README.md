@@ -17,7 +17,9 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
 
 # 💻 Escenario
 · Para llevar a cabo el proyecto recomendamos utilizar el intérprete de comandos en línea y colaborativo, [replit.com](https://replit.com) que destaca porsu sencillez y características exclusivas para el sector educativo.    
-· ➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace. 
+➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace.  
+❗️ Atención: Google Colab [no está cubierto](/images/colab_acuerdo_licencia.png) por el contrato de Google Workspace para centros educativos. Deberemos solicitar consentimiento expreso por escrito a padres y/o tutores de nuestro alumnado para utilizar dicho servicio.  
+❗️ Activación del servicio: por defecto se encuentra deshabilitado en nuestra consola de administración. Deberemos solicitar a nuestro/a administrador/a que lo [active](/images/colab_activacion_uo.png) para las unidades organizativas que lo vayan a utilizar.
 
 # 0️⃣ Antes de empezar
 1. YouTube vídeo 01 👉 <a href="https://youtu.be/QqwDxQHrx7s01" target="_blank">01 Python en primaria. Instalación en Windows.</a>
