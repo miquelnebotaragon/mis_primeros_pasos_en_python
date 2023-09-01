@@ -127,6 +127,7 @@ A continuación te presento una serie de breves actividades que te serán de gra
 * Proyecto 03 · 🕯️ __Tarot__
 * Proyecto 04 · 📐 __Calculando áreeas__
 * Proyecto 05 · 🈹  [__Calculadora de descuentos__](https://colab.research.google.com/drive/1PheXGXHLeNwtp2ptMeueJj4hUi6Mf64n?usp=sharing)
+* Proyecto 06 · ⚖ __Conversor de unidades__
 
 # 🏆 Quiero saber más
 Wakelet · <a href="https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I" target="_blank">Python en primaria.</a>
