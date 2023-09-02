@@ -124,7 +124,7 @@ A continuación te presento una serie de breves actividades que te serán de gra
 
 * Proyecto 01 · 🧮 [__Vamos a contar letras__](https://colab.research.google.com/drive/15BJjqyFbl2DFmkCv6kXpsI6LH3Ip-u--?usp=sharing)
 * Proyecto 02 · ⚙️ [__Desarrollamos una calculadora__](https://colab.research.google.com/drive/1T2QgyV2ei1QPwjfoElpy9B1JzAtFr7X4?usp=sharing)
-* Proyecto 03 · 🕯️ __Tarot__
+* Proyecto 03 · 🕯️ [__Tarot__](https://colab.research.google.com/drive/1kEHAw0wnxrc9gB7oAS-rSPw8cjZunmjS?usp=sharing)
 * Proyecto 04 · 📐 __Calculando áreeas__
 * Proyecto 05 · 🈹  [__Calculadora de descuentos__](https://colab.research.google.com/drive/1PheXGXHLeNwtp2ptMeueJj4hUi6Mf64n?usp=sharing)
 * Proyecto 06 · ⚖ [__Conversor de unidades__](https://colab.research.google.com/drive/1_GX7RLEDH1k4PiWN92dkexBgvXI1dj4F?usp=sharing)
