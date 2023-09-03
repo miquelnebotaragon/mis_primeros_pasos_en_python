@@ -31,7 +31,7 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
 6. YouTube vídeo 06 👉️ <a href="https://youtu.be/A9QLdkVxU-A" target="_blank">06 Python en primaria. Replit.com. Punto de vista del alumno.</a>
 7. YouTube vídeo 07 👉 <a href="https://youtu.be/ocSrxGP6z6U" target="_blank">07 Python en primaria. Replit.com. Desarrollo de una lección.</a>
 8. YouTube vídeo 08 👉 <a href="https://youtu.be/OrrESeNVJSc" target="_blank">08 Python en primaria. Uso de Python en ChromeOS.</a>
-9. YouTube vídeo 09 👉️ <a href="" target="_blank">09 Python en primaria. Google Colaboratory & Classroom (❗️pendiente).</a>
+9. YouTube vídeo 09 👉️ <a href="https://youtu.be/Td1Dk_dVxMY" target="_blank">09 Python en primaria. Google Colaboratory & Classroom.</a>
 
 # ✅ Funcionamiento
 0️⃣ Revisa el <a href="https://youtu.be/PHpHs-b9vNc" target="_blank">vídeo</a> para crear una nueva clase.  
