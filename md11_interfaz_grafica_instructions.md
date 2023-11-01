@@ -14,7 +14,7 @@ print(f'El resultado de la suma de {numero1} y {numero2} es {resultado}.')
 
 ```
 Resultado:
->![image](assets/calculadora1.png)
+>![image](md11_interfaz_grafica_assets/calculadora1.png)
 
 ## ❓️ ¿Puedo avanzar en la programación anterior y definir una función?
 ¡Claro que sí! En eso consiste la programación, debemos aventurarnos a desarrollar bloques de código o declaraciones que podamos reutilizar a lo largo de un mismo programa.  
@@ -30,7 +30,7 @@ def sumar ():
 sumar ()
 ```
 Resultado:
->![image](assets/calculadora2.png)
+>![image](md11_interfaz_grafica_assets/calculadora2.png)
 
 ## ❓️ ¿Y si quiero huir ya de la terminal y tener una interfaz gráfica en mi programa?
 Para ello deberemos introducir la librería _Tkinter_ que funciona básicamente de la siguiente manera:
@@ -49,7 +49,7 @@ aplicacion.geometry('400x300') # Establecemos un tamaño de pantalla de 400 x 30
 aplicacion.mainloop() # Este comando inicia el bucle principal de la interfaz gráfica
 ```
 Resultado:
->![image](assets/calculadora3.png)
+>![image](md11_interfaz_grafica_assets/calculadora3.png)
 
 ## ❓️ ¿Añadimos ahora texto y casillas?
 Una parte importante es la que se describe a continuación. Para poder hacer visibles los elementos, después de crearlos, debemos con la opción _.pack_ empaquetarlos para verlos en pantalla.  
@@ -73,7 +73,7 @@ entrada1.pack() # Empaquetado del segundo elemento
 aplicacion.mainloop() 
 ```
 Resultado:
->![image](assets/calculadora4.png)
+>![image](md11_interfaz_grafica_assets/calculadora4.png)
 ---
 ### 👌 MD11 Actividad 01 (opcional)
 Después de ver el ejemplo anterior, practica creando tu propia ventana de aplicación. Añade un título y un total de 3 elementos en pantalla.  
@@ -140,7 +140,7 @@ boton_sumar.pack()
 aplicacion.mainloop()
 ```
 Resultado:
->![image](assets/calculadora5.png) 
+>![image](md11_interfaz_grafica_assets/calculadora5.png) 
 
 ---
 ### 🔴 MD10 Actividad 02
