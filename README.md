@@ -117,7 +117,7 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_lessonplan.md" target="_blank">lessonplan.md</a>
 
 * __MD1️⃣1️⃣ Interfaz gráfica__  
-![md10](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/d5526f6e-7c24-4184-84fb-df757550a25a)
+![md11](https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/6e7125aa-f80a-4251-bb1c-85a92d8ff422)
 
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md11_interfaz_grafica_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md11_interfaz_grafica_instructions.md" target="_blank">instructions.md</a>
