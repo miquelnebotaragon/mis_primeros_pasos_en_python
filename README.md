@@ -121,7 +121,7 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
 
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/tree/main/md11_interfaz_grafica_assets" target="_blank">assets</a>
   * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md11_interfaz_grafica_instructions.md" target="_blank">instructions.md</a>
-  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md10_mis_funciones_lessonplan.md" target="_blank">lessonplan.md</a>
+  * <a href="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/blob/main/md11_interfaz_grafica_lessonplan.md" target="_blank">lessonplan.md</a>
   
 # 🛠️ Una semana un reto
 Una vez completados con éxito los 10 módulos de _"Mis primeros pasos en Python"_, ¿por qué no divertirnos y seguir practicando con un reto semanal?  
