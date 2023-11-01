@@ -4,7 +4,7 @@
 Llegamos al final y lo hacemos descubriendo las bondades de [_Tkinter_](https://docs.python.org/3/library/tkinter.html), una librería muy especial que hará posible crear interfaces gráficas para nuestras aplicaciones. Veamos, mediante un sencillo ejemplo, cómo funciona y cuáles son sus posibilidades a nivel de iniciación.
 
 
-👉️ Ejemplo 1: una calculadora sencilla (Opción 1️⃣).
+👉️ Ejemplo 1: una calculadora sencilla (opción más sencilla).
 ```Python
 # Creando una calculadora de, por ejemplo, sumas
 numero1 = int(input('Introduce el primer sumando: '))
