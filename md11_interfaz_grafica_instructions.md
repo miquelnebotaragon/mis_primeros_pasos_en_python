@@ -52,7 +52,7 @@ Resultado:
 >![image](md11_interfaz_grafica_assets/calculadora3.png)
 
 ## ❓️ ¿Añadimos ahora texto y casillas?
-Una parte importante es la que se describe a continuación. Para poder hacer visibles los elementos, después de crearlos, debemos con la opción _.pack_ empaquetarlos para verlos en pantalla.  
+Una parte importante es la que se describe a continuación. Para poder hacer visibles los elementos, después de crearlos, debemos con la opción _.pack_, empaquetarlos para verlos en pantalla.  
 
 👉️ Ejemplo 4: introducimos elementos o _widgets_ a nuestro programa.
 ```Python
@@ -147,11 +147,6 @@ Resultado:
 Fíjate en el ejemplo anterior (_Ejemplo 5_) y <ins>redefine la función _sumar_ para crear una nueva función para tu calculadora</ins>. Puedes restar, multiplicar, dividir, efectuar potencias... ¡Da rienda suelta a tu imaginación!
 
 ---
-### 🔴 MD10 Actividad 03
-Define ahora tú una función que te ayude a <ins>calcular el área de un triángulo</ins>. Deberás hacer que sea el propio usuario quien te introduzca los datos necesarios para realizar el cálculo (base y altura).
-
----
-
 
 # 🤗 Resumen del Módulo 11
 
