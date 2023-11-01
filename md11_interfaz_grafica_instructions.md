@@ -100,7 +100,7 @@ aplicacion.mainloop()
 ```
 ---
 ## ❓️ ¡Vamos a por nuestra primera aplicación!
-👉️ Ejemplo 5: después de analizar los ejemplos anteriores veamos qué necesitamos para diseñar nuestra calculadora para realizar sumas de manera atractiva.
+👉️ Ejemplo 5: después de analizar los ejemplos anteriores, veamos qué necesitamos para diseñar nuestra calculadora para realizar sumas de manera atractiva.
 
 ```Python
 # Importación de módulos y creación de alias
