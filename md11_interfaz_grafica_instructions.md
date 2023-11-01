@@ -143,7 +143,7 @@ Resultado:
 >![image](md11_interfaz_grafica_assets/calculadora5.png) 
 
 ---
-### 🔴 MD10 Actividad 02
+### 🔴 MD11 Actividad 02
 Fíjate en el ejemplo anterior (_Ejemplo 5_) y <ins>redefine la función _sumar_ para crear una nueva función para tu calculadora</ins>. Puedes restar, multiplicar, dividir, efectuar potencias... ¡Da rienda suelta a tu imaginación!
 
 ---
