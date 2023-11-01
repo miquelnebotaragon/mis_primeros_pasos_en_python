@@ -33,7 +33,7 @@ entrada1.pack() # Empaquetado del segundo elemento
 aplicacion.mainloop() 
 ```
 
-### Solución actividad MD11 Actividad 02
+### Ejemplo de posible solución actividad MD11 Actividad 02
 ```Python
 # Importación de módulos y creación de alias
 import tkinter as tk
