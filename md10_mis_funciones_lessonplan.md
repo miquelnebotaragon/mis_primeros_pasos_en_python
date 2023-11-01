@@ -5,57 +5,70 @@
   __ students will never see this __
 
   ## Objetivos de aprendizaje en este módulo
-  1. Declarar o definir funciones en Python.
-  2. Repasar el funcionamiento de condicionales en Python (_if()_, _else()_y _elif()_).  
-  3. Repasar el funcionamiento y uso de bucles en Python (_for_, _while_...).
+  1. Repasar la declaración o definición de funciones en Python.
+  2. Repasar el funcionamiento de variables. 
+  3. Repasar el funcionamiento y uso de operaciones aritméticas básicas.
   6. Desarrollar funciones propias para su uso a lo largo de las diferentes propuestas.
+  7. Uso de la librería _Tkinter_ para la creación de interfaces gráficas para nuestros programas.
 
   Más información en la página de contacto del autor 👉 [Miquel Nebot](https://miquelnebot.es).
 
-### Solución actividad MD10 Actividad 01 (opcional)
+### Solución actividad MD11 Actividad 01 (opcional)
 ```Python
-def imprimir_materias():
-    asignaturas = ['Mates', 'Lengua', 'Ciencias', 'Tecnología']
-    seleccion = int(input('Del 0 al 3, di qué asignatura quieres ver: '))
-    
-    if 0 <= seleccion < len(asignaturas):
-        print(asignaturas[seleccion])
-    else:
-        print('Opción incorrecta. ¡Introduce un número válido!')
+# Importación de módulos y creación de alias
+import tkinter as tk
 
-imprimir_materias()
+# Diseño de nuestra interfaz gráfica
+aplicacion = tk.Tk() 
+aplicacion.title('Miquel\'s APP') 
+aplicacion.geometry('400x400') 
+aplicacion.configure(background='#ffffff')
+
+etiqueta1 = tk.Label(text='Introduce tu nombre') # Etiqueta de texto
+entrada1 = tk.Entry() # Cuadro de entrada de valores
+
+etiqueta1.pack() # Empaquetado del primer elemento
+entrada1.pack() # Empaquetado del segundo elemento
+
+aplicacion.mainloop() 
 ```
 
-### Solución actividad MD10 Actividad 02
+### Solución actividad MD11 Actividad 02
 ```Python
-year_actual = int(input('Introduce el año actual: '))
-year_nacimiento = int(input('Introduce tu año de nacimiento: '))
+# Importación de módulos y creación de alias
+import tkinter as tk
 
-def calcular_edad (year_actual, year_nacimiento):
-    edad = year_actual - year_nacimiento
-    return (edad)
-print('Tu edad es', calcular_edad (year_actual, year_nacimiento),'años.')
+# Función principal
+def dividir():
+    dividendo = int(entrada_dividendo.get())
+    divisor = int(entrada_divisor.get())
+    resultado = dividendo / divisor
+    etiqueta_resultado.config(text='Resultado: ' + str(resultado))
+
+# Creación de la interfaz gráfica
+aplicacion = tk.Tk()
+aplicacion.title('Calculadora')
+aplicacion.geometry('400x200')
+
+## Creación de los elementos o widgets que conformarán la aplicación
+etiqueta_dividendo = tk.Label(text='Dividendo:')
+entrada_dividendo = tk.Entry()
+
+etiqueta_divisor = tk.Label(text='Divisor:')
+entrada_divisor = tk.Entry()
+
+etiqueta_resultado = tk.Label(text='--')
+
+boton_sumar = tk.Button(text='Dividir', command=dividir)
+
+## Empaquetado de todos los elementos para que sean visibles en pantalla
+etiqueta_dividendo.pack()
+entrada_dividendo.pack()
+etiqueta_divisor.pack()
+entrada_divisor.pack()
+etiqueta_resultado.pack()
+boton_sumar.pack()
+
+aplicacion.mainloop()
 ```
-Una solución alternativa con las mismas características en cuanto a rendimiento pero una mejor legibilidad:
 
-```Python
-def calcular_edad(year_actual, year_nacimiento):
-    edad = year_actual - year_nacimiento
-
-year_actual = int(input('Introduce el año actual: '))
-year_nacimiento = int(input('Introduce tu año de nacimiento: '))
-edad = calcular_edad(year_actual, year_nacimiento)
-print('Tu edad es', edad, 'años.')
-```
-### Solución actividad MD10 Actividad 03
-```Python
-def area_triangulo(base, altura):
-    area = (base * altura)/2
-    return area
-
-base = float(input('Introduce la medida de la base del triángulo: '))
-altura = float(input('Introduce la altura del triángulo: '))
-area = area_triangulo(base, altura)
-
-print(f'El área del triángulo es {area} (unidades al cuadrado, x\u00b2).')
-```
