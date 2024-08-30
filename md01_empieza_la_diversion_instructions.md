@@ -64,18 +64,19 @@ Resultado:
 
 ## 💡 Vale... ¿y si quiero explicar mi código?
 
-Es encarecidamente recomendable (sin pasarse, claro está 😄) efectuar anotaciones y explicaciones a nuestro propio código para facilitar la lectura y entendimiento a las personas que intenten utilizarlo en el futuro.  
+Es una práctica muy recomendable documentar nuestro código, es decir, efectuar anotaciones y explicaciones para facilitar la lectura y entendimiento a las personas que intenten utilizar nuestra aplicación en el futuro.  
 
-Con el símbolo almohadilla __"#"__ iremos comentando líneas en el _idle_ de Python al igual que se hace en otros lenguajes de programación. Dicho símbolo hace posible que podamos redactar anotaciones, explicaciones, aclaraciones... o simplemente que invalidemos una o varias líneas de código de manera temporal si estamos realizando pruebas. Todo lo que siga a dicho símbolo, el editor lo omitirá y no lo tendrá en cuenta.  
+Lo ideal es hacerlo con el símbolo almohadilla __"#"__. De esta manera iremos comentando líneas en el _idle_ de Python al igual que se hace en otros lenguajes de programación. Dicho símbolo hace posible que podamos redactar anotaciones, explicaciones, aclaraciones... o simplemente que invalidemos una o varias líneas de código de manera temporal si estamos realizando pruebas. Todo lo que siga a __"#"__, el editor lo omitirá y no se tendrá en cuenta en el momento de ejecutar el programa.  
 
-Si el comentario es extremadamente largo (ocupa diversas líneas) podemos utilizar 3 comillas simples o dobles al principio y al final. Todo lo que quede entre ellas no será "leído" por el intérprete de comandos.
+Si el comentario es muy extenso y ocupa varias líneas, podemos seguir utilizando la almohadilla al inicio de cada línea. Aunque en Python es posible utilizar 3 comillas simples o dobles al principio y al final de un bloque de texto, obteniendo el mismo resultado (omisión del texto al ejecutar el código), es importante entender que este texto no se considera técnicamente un comentario, sino un __string literal__. Este string no está asociado a ninguna variable, por lo que Python lo descarta, aunque sigue ocupando espacio en memoria. Por esta razón, no es la mejor práctica para realizar comentarios multilínea generales.
 
 Ejemplo 1: utilizando las comillas simples.
 
 ```python
-''' Esto sería un comentario de texto muuuuuy largo, es decir
-que ocupase un par de líneas, ya que lo que tenemos que explicar es sumamente
-importante y facilita la comprensión de nuestro código a futuros usuarios. '''
+''' Esto técnicamente no sería un comentario multilínea y, por lo tanto,
+no es la mejor manera de comentar nuestro código. Recuerda que la opción
+recomendada es utilizar la almohadilla al principio de cada línea que
+deseemos incluir en nuestro código. '''
 ```
 Resultado:
 >-
@@ -83,9 +84,10 @@ Resultado:
 Ejemplo 2: utilizando las comillas dobles.
 
 ```python
-""" Esto sería un comentario de texto muuuuuy largo, es decir
-que ocupase un par de líneas, ya que lo que tenemos que explicar es sumamente
-importante y facilita la comprensión de nuestro código a futuros usuarios. """
+""" Esto técnicamente no sería un comentario multilínea y, por lo tanto,
+no es la mejor manera de comentar nuestro código. Recuerda que la opción
+recomendada es utilizar la almohadilla al principio de cada línea que
+deseemos incluir en nuestro código. """
 ```
 Resultado:
 >-
