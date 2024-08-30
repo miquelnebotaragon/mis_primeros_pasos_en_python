@@ -80,6 +80,7 @@ print(a + b + c)
 ```
 Resultado:
 >50
+
 __4. Nombres de variables y funciones:__ Usa nombres descriptivos, en minúsculas y sin espacios. Si necesitas separar palabras utiliza guion bajo para hacerlo.
 ```python
 nombre_chico = 'Andrés'
