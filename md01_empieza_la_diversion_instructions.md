@@ -62,14 +62,14 @@ Resultado:
 
 ❗️ Al hilo de todo lo explicado en este apartado, comentar que existe una guía oficial de estilo denóminada __PEP 8__ _"Python Enhancement Proposal"_ donde encontramos 8 propuestas específicas para escribir código de manera clara, coherente i legible. El objetivo de esta guía es proporcionar unas directrices que ayuden a los desarrolladores a escribir código que sea fácil de leer, mantener y compartir con otros programadores/as.
 ### Principales recomendaciones de PEP 8:
-__1. Identación:__ Utiliza __4 espacios para cada nivel de identación__. Aunque lo veremos más adelante cuando tratemos las funciones, es importante no perder de vista esta primera recomendación. __NO__ se recomienda utilizar tabuladores.
+__1. Identación:__ Utiliza 4 espacios para cada nivel de identación. Aunque lo veremos más adelante cuando tratemos las funciones, es importante no perder de vista esta primera recomendación. __NO__ se recomienda utilizar tabuladores.
 ```python
 if a == 1:
     print('Correcto')
 else:
     print('Incorrecto')
 ```
-__2. Longitud de línea:__ Las líneas de código __no deben tener más de 79 caracteres__.
+__2. Longitud de línea:__ Las líneas de código no deben tener más de 79 caracteres.
 
 __3. Espacios en blanco:__ Deja espacios alrededor de los operadores (`=`, `+`, `-`...) y también después de las comas.
 ```python
