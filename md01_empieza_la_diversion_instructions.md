@@ -62,14 +62,57 @@ Resultado:
 
 ❗️ Al hilo de todo lo explicado en este apartado, comentar que existe una guía oficial de estilo denóminada __PEP 8__ _"Python Enhancement Proposal"_ donde encontramos 8 propuestas específicas para escribir código de manera clara, coherente i legible. El objetivo de esta guía es proporcionar unas directrices que ayuden a los desarrolladores a escribir código que sea fácil de leer, mantener y compartir con otros programadores/as.
 ### Principales recomendaciones de PEP 8:
-1. Identación: Utiliza 4 espacios para cada nivel de identación. Aunque lo veremos más adelante cuando tratemos las funciones, es importante no perder de vista esta primera recomendación. __NO__ se recomienda utilizar tabuladores.
+__1. Identación:__ Utiliza __4 espacios para cada nivel de identación__. Aunque lo veremos más adelante cuando tratemos las funciones, es importante no perder de vista esta primera recomendación. __NO__ se recomienda utilizar tabuladores.
 ```python
 if a == 1:
     print('Correcto')
 else:
     print('Incorrecto')
 ```
-3. Longitud de línea:
+__2. Longitud de línea:__ Las líneas de código __no deben tener más de 79 caracteres__.
+
+__3. Espacios en blanco:__ Deja espacios alrededor de los operadores (`=`, `+`, `-`...) y también después de las comas.
+```python
+a = 7
+b = 30
+c = 13
+print(a + b + c)
+```
+Resultado:
+>50
+__4. Nombres de variables y funciones:__ Usa nombres descriptivos, en minúsculas y sin espacios. Si necesitas separar palabras utiliza guion bajo para hacerlo.
+```python
+nombre_chico = 'Andrés'
+nombre_chica = 'Carla'
+variable = int(input('Si eres chico pulsa 1, 2 si eres chica\n'))
+
+if variable == 1:
+    print('Tu compañero de trabajo será ' + nombre_chico + '.')
+else:
+    print('Tu compañera de trabajo será ' + nombre_chica + '.')
+```
+__5. Comentarios:__ Utiliza comentarios claros y concisos para explicar el código que puede no ser comprensible inmediatamente.
+
+__6. Módulos e importaciones:__ Cuando sea necesario (lo veremos en módulos posteriores), importa los módulos en líneas separadas y mantenlos al principio del archivo.
+```python
+import time
+import os
+```
+__7. Blancos y líneas en blanco:__ Utiliza 2 líneas en blanco para separar definiciones de clases y funciones. 1 sola para separar bloques de código dentro de una función si crees que mejorará la legibilidad del código.
+
+__8. Cadenas de caracteres (strings):__ Usa las comillas simples o dobles para cadenas breves. Eso sí, sé consistente al usar unas u otras. Para cadenas largas que incluyen salto de línea puedes usar 3 comillas dobles o simples tanto de apertura como de cierre.
+```python
+# Cadena con comillas simples
+nombre = 'Antón'
+
+# Cadena con comillas dobles
+saludo = "¿Cómo te encuentras hoy?"
+
+# Cadenas multilínea con comillas triples
+mensaje = """Esta es una cadena de texto
+multilínea que ocupa más espacio pero funciona
+como una variable típica."""
+```
 
 ## 💡 Vale... ¿y si quiero explicar mi código?
 
