@@ -215,10 +215,10 @@ Hasta aquí esta primera lección con los aspectos más básicos de Python. Recu
 3. Función.
 4. print('Hola mundo').
 5. Unicode.
+6. PEP 8 _"Python Enhancement Proposal"_.
   
 También que:  
 * En Python cada instrucción deberá aparecer en una línea individual.  
 * Podemos utilizar ";" para unir instrucciones en una misma línea.  
 * Podemos utilizar la "\\" para fragmentar instrucciones en diversas líneas.  
 * Utilizamos "#" para comentar, explicar o impedir que se ejecute alguna instrucción de manera temporal.
-* Para comentarios largos que ocupen diversas líneas podemos utilizar 3 comillas simples o dobles para abrir y cerrar.  
