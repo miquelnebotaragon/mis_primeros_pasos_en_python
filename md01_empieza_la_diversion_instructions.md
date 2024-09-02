@@ -70,6 +70,11 @@ else:
     print('Incorrecto')
 ```
 __2. Longitud de línea:__ Las líneas de código no deben tener más de 79 caracteres.
+```python
+# Esto sería un comentario de línea que, en ningún caso, supera los 79
+# caracteres establecidos en la guía de estilo de PEP 8. En caso de necesitar
+# comentarios largos utilizaremos almohadilla "#" al principio de cada una.
+```
 
 __3. Espacios en blanco:__ Deja espacios alrededor de los operadores (`=`, `+`, `-`...) y también después de las comas.
 ```python
@@ -93,6 +98,18 @@ else:
     print('Tu compañera de trabajo será ' + nombre_chica + '.')
 ```
 __5. Comentarios:__ Utiliza comentarios claros y concisos para explicar el código que puede no ser comprensible inmediatamente.
+```python
+# Mediante esta variable solicitamos al usuario que introduzca su edad.
+# Quedará almacenada en la memoria en formato de número entero.
+
+edad = int(input('¿Cuántos años tienes?\n'))
+
+if edad >= 18:
+    print('¡Enhorabuena! Ya eres mayor de edad.')
+
+else:
+    print('Eres joven, no tengas prisa. Aún no eres mayor de edad.')
+```
 
 __6. Módulos e importaciones:__ Cuando sea necesario (lo veremos en módulos posteriores), importa los módulos en líneas separadas y mantenlos al principio del archivo.
 ```python
@@ -100,6 +117,27 @@ import time
 import os
 ```
 __7. Blancos y líneas en blanco:__ Utiliza 2 líneas en blanco para separar definiciones de clases y funciones. 1 sola para separar bloques de código dentro de una función si crees que mejorará la legibilidad del código.
+```python
+def suma(a, b):
+    # Suma de dos números
+    return a + b
+
+# Línea en blanco entre funciones según la guía de estilo PEP 8
+def resta(a, b):
+    # Resta dos números
+    return a - b
+
+# Programa principal para probar las funciones
+if __name__ == "__main__":
+    numero1 = int(input('Introduce el primer número: '))
+    numero2 = int(input('Introduce el segundo número: '))
+
+    resultado_suma = suma(numero1, numero2)
+    resultado_resta = resta(numero1, numero2)
+
+    print('La suma de', numero1, '+', numero2, 'es', resultado_suma)
+    print('La resta de', numero1, '-', numero2, 'es', resultado_resta)
+```
 
 __8. Cadenas de caracteres (strings):__ Usa las comillas simples o dobles para cadenas breves. Eso sí, sé consistente al usar unas u otras. Para cadenas largas que incluyen salto de línea puedes usar 3 comillas dobles o simples tanto de apertura como de cierre.
 ```python
