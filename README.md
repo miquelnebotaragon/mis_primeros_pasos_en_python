@@ -1,11 +1,8 @@
 <h1 align="center"><b>Mis primeros pasos en Python</b></h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
-    <img alt="License: GPL--3+" src="https://img.shields.io/badge/License-GPL--3+-yellow.svg" />
-  </a>
   <a href="https://twitter.com/miquelnebot" target="_blank">
-    <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
+  <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
 <div align="center"><img src="https://github.com/miquelnebotaragon/mis_primeros_pasos_en_python/assets/57944755/9b2a092e-dca9-4ea8-a284-d8038056ae2e"></div>
