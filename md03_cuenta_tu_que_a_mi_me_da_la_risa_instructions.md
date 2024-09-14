@@ -132,4 +132,4 @@ También que:
   * Reemplazar: `replace` 👉 print('abuelo'.replace('o', 'a'))
   * Extraer: 👉 print('Palabra clave a extraer'[8:13])
   * Cambiar a mayúsculas/minúsculas: `upper` `lower` 👉 print('EN MINÚSCULAS'.lower())
-  * Contar: `count` 👉 print('Hola,Hola,Hola'.count('Hola'))
+  * Contar: `count` 👉 print('Hola,Hola,Hola'.count('Hola')) Testing!
