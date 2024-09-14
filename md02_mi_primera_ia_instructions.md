@@ -7,12 +7,12 @@ Por ejemplo, el caso más sencillo y con el que seguro que llevas trabajando muc
   
 > x + 5 = 7
   
-Seguro que acabas de adivinar que el valor que se "oculta" tras la letra `x` es el 2. Pues algo parecido encontramos en los lenguajes de programación cuando hablamos de variables. Podríamos establecer un símil con una <ins>celda o espacio en la memoria donde dejamos unos valores para que el programa, posteriormente los utilice para hacer cualquier función</ins>.
+Seguro que acabas de adivinar que el valor que se "oculta" tras la letra `x` es el 2. Pues algo parecido encontramos en los lenguajes de programación cuando hablamos de variables. Podríamos establecer un símil con una __celda o espacio en la memoria donde dejamos unos valores para que el programa, posteriormente los utilice para hacer cualquier función__.
 
 ![image](md02_mi_primera_ia_assets/programming-variable.png)  
-Imagen: _CPT-programming-variable.svg_ · <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">Wikimedia Commons</a> 
+Imagen: _CPT-programming-variable.svg_ · [Wikimedia Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
-## ⛏ ¡Empezamos a picar!
+## ⛏ Empezamos a picar código
 
 1️⃣ Para asignar un valor a una variable (almacenar un valor en memoria) debemos hacerlo usando letras o palabras completas seguidas del operador `=`. En programación no hace la misma función que en matemáticas y aquí es el encargado de "asignar" un valor (parte derecha) a la variable creada (parte izquierda).
 
@@ -32,13 +32,13 @@ Resultado:
 
 ❓️ ¿Qué debemos tener en cuenta a la hora de definir variables?
   
-* Para definir variables utilizaremos letras <ins>[Aa - Zz], números [0 - 9] o la combinació de ambos</ins>. No podemos utilizar símbolos ni caracteres especiales a excepción del guion bajo `_` cuya función explicaremos más adelante.
-* Usaremos, en la medida de lo posible, <ins>nombres concretos y descriptivos</ins> que faciliten la comprensión del código para aquellos que quieran usarlo en el futuro. En el caso que queramos definir variables usando solo letras, utilizaremos letras minúsculas, por ejemplo: a, n, x, nombre, valor, ciudad...  
+* Para definir variables utilizaremos letras __[Aa - Zz], números [0 - 9] o la combinació de ambos__. No podemos utilizar símbolos ni caracteres especiales a excepción del guion bajo `_` cuya función explicaremos más adelante.
+* Usaremos, en la medida de lo posible, __nombres concretos y descriptivos__ que faciliten la comprensión del código para aquellos que quieran usarlo en el futuro. En el caso que queramos definir variables usando solo letras, utilizaremos letras minúsculas, por ejemplo: a, n, x, nombre, valor, ciudad...  
 ❗️Atención: Es importante destacar que, en Python, los nombres que asignamos a las variables son _case-sensitive_ (diferenciación entre mayúsculas y minúsculas). Por ejemplo, codigo, Codigo y CODIGO, serían variables completamente diferentes. Aunque podemos utilizar mayúsculas debemos seguir las convenciones de escritura establecidas y hacerlo en minúscula siempre que sea posible.
   
-* Si queremos utilizar variables con más de una palabra, <ins>utilizaremos el guion bajo `-`</ins> para separarlas (en programación, este estilo de escritura es conocido como _snake_case_). Ej. nombre_completo, codigo_postal, nuevo_valor...
+* Si queremos utilizar variables con más de una palabra, __utilizaremos el guion bajo `-`__ para separarlas (en programación, este estilo de escritura es conocido como _snake_case_). Ej. nombre_completo, codigo_postal, nuevo_valor...
 * Otra técnica menos utilizada pero también a nuestra disposición es la llamada _camelCase_ donde escribimos palabras juntas utilizando mayúscula cada vez que cambiamos de palabra. Ej. fechaNacimiento, ciudadOrigen, colorDePelo...
-* Utilizaremos el operador de asignación `=` para dar el valor elegido a nuestra variable. <ins>Antes y después del signo dejaremos un espacio en blanco</ins> (solo 1). Ej. edad = 77, nombre = 'Antonio'...
+* Utilizaremos el operador de asignación `=` para dar el valor elegido a nuestra variable. __Antes y después del signo dejaremos un espacio en blanco__ (solo 1). Ej. edad = 77, nombre = 'Antonio'...
 * Si queremos definir nuestra variable usando números, podemos hacerlo pero nunca a principio de palabra (no está permitido hacerlo). Ej. alumno7 = 'Pedro' (esto sí está permitido), ~~5a = 'Mi clase'~~ (esto no está permitido).
 * Si tenemos un conjunto de variables y queremos escribirlas en una sola línea, lo haremos siguiendo la estructura siguiente: variable1, variable2, variable3 = 'Valor variable 1', 'Valor variable 2', 'Valor variable 3'.
 
@@ -89,12 +89,12 @@ print(alumno_participante)
 Resultado
 >Cristina
 
-* En Python, al igual que en todos los lenguajes de programación, existen <ins>palabras reservadas que NO podemos utilizar para nombrar variables</ins>. Por ejemplo `print` o `break` no podrán ser nombres de variables ya que realizan otras funciones en la programación. Si quieres tener a mano la lista de palabras reservadas, ejecuta Python en tu equipo y escribe `help()` y, a continuación, `keywords` para ver en pantalla la lista completa de palabras a evitar en el momento de definir variables.  
+* En Python, al igual que en todos los lenguajes de programación, existen __palabras reservadas que NO podemos utilizar para nombrar variables__. Por ejemplo `print` o `break` no podrán ser nombres de variables ya que realizan otras funciones en la programación. Si quieres tener a mano la lista de palabras reservadas, ejecuta Python en tu equipo y escribe `help()` y, a continuación, `keywords` para ver en pantalla la lista completa de palabras a evitar en el momento de definir variables.  
 
 ![image](md02_mi_primera_ia_assets/keywords.png)  
-Imagen: Intérprete de comandos en línea _python.org_ · <a href="https://www.python.org/shell">Python.org</a>
+Imagen: Intérprete de comandos en línea _python.org_ · [Python.org](https://www.python.org/shell)
 
-* Si en lugar de definir una variable queremos disponer de <ins>constantes</ins>, lo haremos usando letras mayúsculas. Ej. MI_NOMBRE = 'Miquel'. Podemos definir una constante como un valor queremos mantener después de su asignación inicial. Por ejemplo, el nombre de un usuario o el valor de PI siempre serán los mismos y, por eso, podemos indicar (usando letras mayúsculas) que son valores que no deberíamos cambiar. En Python no hay un tipo de datos específico para las constantes pero, por convención, las podemos definir utilizando el nombre en mayúsculas al completo.
+* Si en lugar de definir una variable queremos disponer de __constantes__, lo haremos usando letras mayúsculas. Ej. MI_NOMBRE = 'Miquel'. Podemos definir una constante como un valor queremos mantener después de su asignación inicial. Por ejemplo, el nombre de un usuario o el valor de PI siempre serán los mismos y, por eso, podemos indicar (usando letras mayúsculas) que son valores que no deberíamos cambiar. En Python no hay un tipo de datos específico para las constantes pero, por convención, las podemos definir utilizando el nombre en mayúsculas al completo.
   
 ```python
 # Ejemplo de constante
@@ -219,9 +219,10 @@ Resultado:
 TypeError: can only concatenate str (not "int") to str
 
 ---
+
 ### 🔴 MD02 Actividad 01
 
-Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>escribe un total de tres variables que se muestren en pantalla a la vez</ins> con la función `print()`.  
+Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo __escribe un total de tres variables que se muestren en pantalla a la vez__ con la función `print()`.  
 
 Ejemplo:
 
@@ -255,6 +256,7 @@ Resultado:
 > Miquel
 
 ---
+
 ### 🔴 MD02 Actividad 02
 
 Continuando con el ejemplo anterior, añade la función necesaria para que el programa te haga introducir tu nombre y muestre en pantalla los nombres de tus amigos. Puedes personalizar el texto tanto como quieras para que quede una oración lo más cuidada posible.
@@ -353,7 +355,7 @@ Después de todo lo aprendido en esta última sección (__➕ Ampliación de con
 
 ---
 
-# 🤗 Resumen del Módulo 02
+## 🤗 Resumen del Módulo 02
 
 Hasta aquí la segunda lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
 
