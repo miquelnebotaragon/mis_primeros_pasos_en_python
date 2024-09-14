@@ -10,7 +10,7 @@ Fíjate como el punto de partida es siempre el símbolo mayor que `>` también l
 
 ![image](md01_empieza_la_diversion_assets/prompt_triple.png)
 
-## ⛏ ¡Empezamos a picar!
+## ⛏ ¡Empezamos a picar
 
 Empecemos con algo tan sencillo como es utilizar la función precargada `print()` la cual nos devolverá en pantalla aquello que tecleemos entre paréntesis y entrecomillado (las cadenas de texto o también llamadas _strings_ deben ir entre comillas). Recordad que para ejecutar el comando hay que pulsar "run" en la parte superior de esta consola.
 
@@ -24,7 +24,7 @@ Resultado:
 
 ### 🔴 MD01 Actividad 01
 
-Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y escribe tu primera línea de código. <ins>Escribe una oración simple, la que tú quieras</ins>. Recuerda que aquello que escribas tiene que ir entre paréntesis y también entre comillas (pueden ser simples o dobles, da igual).  
+Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y escribe tu primera línea de código. Escribe una oración simple, la que tú quieras. Recuerda que aquello que escribas tiene que ir entre paréntesis y también entre comillas (pueden ser simples o dobles, da igual).  
 
 Ejemplo:
 
@@ -238,7 +238,7 @@ print('Funcionará perfectamente con tildes, ñ... lo que queramos.')
 
 ### 🔴 MD01 Actividad 02
 
-Haz clic en el archivo __"main.py"__ y, antes de la oración de la Actividad 01, <ins>haz un comentario usando la tecla almohadilla "#"</ins>.  
+Haz clic en el archivo __"main.py"__ y, antes de la oración de la Actividad 01, haz un comentario usando la tecla almohadilla `#`.  
 
 Ejemplo:
 
@@ -251,7 +251,7 @@ print('¡Me encanta esto de ser programador/a!')
 
 ---
 
-# 🤗 Resumen del Módulo 01
+## 🤗 Resumen del Módulo 01
 
 Hasta aquí esta primera lección con los aspectos más básicos de Python. Recuerda que deberías retener los siguientes conceptos:
 
