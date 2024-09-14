@@ -1,6 +1,9 @@
 <h1 align="center"><b>Mis primeros pasos en Python</b></h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
+  <img alt="CC BY-NC-SA 4.0>" src="https://img.shields.io/badge/licencia-CC--BY--NC--SA--4.0-lightgrey" />
+  </a>
   <a href="https://twitter.com/miquelnebot" target="_blank">
   <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
