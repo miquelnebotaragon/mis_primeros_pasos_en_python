@@ -4,18 +4,18 @@
 
 Los tipos de datos nos ayudarán a conocer algo mejor la información que queremos tratar en nuestros programas. Empecemos entonces con una simple clasificación:
 
-  * De Texto
-    * 1️⃣ Cadenas de texto 👉 _(str)_
-  * Datos Numéricos
-    * 2️⃣ Números enteros 👉 _(int)_
-    * 3️⃣ Números reales (o de "coma flotante") 👉 _(float)_
-    * 4️⃣ Números complejos 👉 _(complex)_
-  * Datos Booleanos 
-    * 5️⃣ Bool 👉 _(bool)_
-  * Secuencias
-    * 6️⃣ Listas 👉 _(list)_
-    * 7️⃣ Tuplas 👉 _(tuple)_
-    * 8️⃣ Diccionarios 👉 _(dict)_
+* De Texto
+  * 1️⃣ Cadenas de texto 👉 _(str)_
+    * Datos Numéricos
+      * 2️⃣ Números enteros 👉 _(int)_
+      * 3️⃣ Números reales (o de "coma flotante") 👉 _(float)_
+      * 4️⃣ Números complejos 👉 _(complex)_
+    * Datos Booleanos
+      * 5️⃣ Bool 👉 _(bool)_
+    * Secuencias
+      * 6️⃣ Listas 👉 _(list)_
+      * 7️⃣ Tuplas 👉 _(tuple)_
+      * 8️⃣ Diccionarios 👉 _(dict)_
   
 ## 1️⃣ Cadenas de texto _(str)_
 
@@ -80,32 +80,35 @@ print('Me encantas, Pyhton'[13:19])
 Resultado:
 > Python
 
-👉 Si quieres practicar con más funciones, puedes encontrar más información en <a href="https://www.w3schools.com/python/python_strings.asp">_Python Strings_. W3 Schools.</a>
+👉 Si quieres practicar con más funciones, puedes encontrar más información en [Python Stings. W3 Schools](https://www.w3schools.com/python/python_strings.asp)
 
 ---
+
 ### 👌 MD03 Actividad 01 (opcional)
 
-Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y <ins>adivina en qué posición se encuentra la palabra _Galileo_</ins>. Si revisas la información anterior de este módulo, no te será nada complicado hacerlo.  
+Haz clic en el archivo __"main.py"__ que encontrarás en la parte superior de este módulo y __adivina en qué posición se encuentra la palabra _Galileo___. Si revisas la información anterior de este módulo, no te será nada complicado hacerlo.  
 
-<ins>Texto a copiar</ins>  
+__Texto a copiar__  
 _Nacido en 1564 en Pisa, Galileo Galilei fue un astrónomo y físico italiano cuyas contribuciones revolucionaron la ciencia. Su telescopio permitió observaciones que desafiaron las creencias establecidas, confirmando el modelo heliocéntrico de Copérnico. Sin embargo, sus descubrimientos le valieron conflictos con la Iglesia Católica, que lo consideró hereje. A pesar de su persecución, persistió en sus investigaciones y sentó las bases de la física moderna, dejando un legado duradero en el avance científico._  
 Ejemplo:  
 
 ![image](md03_cuenta_tu_que_a_mi_me_da_la_risa_assets/md0301.png)  
-Imagen: Pista para la resolución de la actividad opcional MD03 Actividad 01. 
+Imagen: Pista para la resolución de la actividad opcional MD03 Actividad 01.
 
 ---
+
 ### 🔴 MD03 Actividad 02
 
 ¿Cuántas veces habéis llenado hojas de vuestro cuaderno marcando las veces que se repite vuestro profe? ¡No os avergoncéis, lo hemos hecho todos! 😊  
-Haz clic en el archivo __"main.py"__ 👆 y engancha el texto siguiente dentro de una variable llamada "historia". Luego, utilizando la función `count()` <ins>encuentra el número de veces que tu profe ha repetido la palabra "fijaos"</ins> que será almacenada en una segunda variable llamada "repeticion". Finalmente, deberá salir en pantalla un texto anunciando cuantas veces se ha repetido el término: "La palabra... se ha repetido...veces"
+Haz clic en el archivo __"main.py"__ 👆 y engancha el texto siguiente dentro de una variable llamada "historia". Luego, utilizando la función `count()` __encuentra el número de veces que tu profe ha repetido la palabra "fijaos"__ que será almacenada en una segunda variable llamada "repeticion". Finalmente, deberá salir en pantalla un texto anunciando cuantas veces se ha repetido el término: "La palabra... se ha repetido...veces"
 
-<ins>Texto a copiar</ins>  
+__Texto a copiar__
 _Hoy les contaré una emocionante historia sobre la antigua civilización de los egipcios. Fijaos bien, porque este relato está lleno de misterio y aventuras. Hace miles de años, en tierras lejanas del valle del Nilo, los egipcios construyeron grandes pirámides para honrar a sus faraones. Fijaos en esas enormes estructuras que desafiaban el tiempo, ¡eran impresionantes! En el antiguo Egipto, el río Nilo era fundamental para la vida de su pueblo. Fijaos cómo las aguas del Nilo inundaban las tierras y dejaban un fértil limo que permitía cultivar sus alimentos. Gracias a ello, los egipcios prosperaban. Una de las cosas más asombrosas de los egipcios era su escritura jeroglífica. Fijaos en esos símbolos que representaban objetos y sonidos. A través de ellos, los egipcios dejaron registrada su historia y conocimiento. Además, fijaos en las momias, que eran cuerpos preservados mediante un proceso especial. Los egipcios creían en la vida después de la muerte y preparaban a sus difuntos para esa nueva etapa. La vida en el antiguo Egipto también estaba llena de dioses y diosas. Fijaos en Ra, el poderoso dios del sol, y en Isis, la diosa protectora. Los egipcios les rendían culto y les pedían su protección. ¡Qué interesante es la historia de los egipcios! Fijaos en cómo su legado ha perdurado a lo largo de los siglos. Hoy podemos aprender sobre su cultura y admirar las maravillas que dejaron atrás. Espero que hayáis disfrutado de esta historia llena de misterios y curiosidades. Fijaos en los detalles y seguid explorando el fascinante mundo de la historia. ¡Hasta la próxima aventura!_  
 
-Texto: Generado a través de IA en https://chat.openai.com para la actividad MD03 Actividad 02.
+Texto: Generado a través de IA en [ChatGPT](https://chatgpt.com) para la actividad MD03 Actividad 02.
 
 ---
+
 ### 🔴 MD03 Actividad 03
 
 Después de llevar a cabo el ejercicio anterior, es normal que te haya dado de resultado "1", ya que le hemos dicho al programa que el término exacto que debe buscar es "fijaos" y otras variantes como "Fijaos" con la primera "F" mayúscula, no las tiene en cuenta.  
@@ -115,7 +118,7 @@ En el archivo __"main.py"__ corrige tu programación hasta que te dé 8 (que es 
 
 ---
 
-# 🤗 Resumen del Módulo 3
+## 🤗 Resumen del Módulo 3
 
 Hasta aquí la tercera lección con aspectos básicos sobre Python. Recuerda que deberías retener los siguientes conceptos:
 
