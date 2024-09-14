@@ -441,3 +441,4 @@ También que:
   * _else_ 👉 Si la condición del _if_ no se cumple, automáticamente saltará a la instrucción que contenga esta sentencia.
   * _elif_ 👉 Es de gran utilidad para verificar diversas condiciones una detrás de la otra.
   * _while_ 👉 Para ejecutar bucles de repetición utilizaremos _while_ el cual estará en funcionamiento de manera indefinida o hasta que la respuesta a alguna consulta sea _FALSE_.
+  
