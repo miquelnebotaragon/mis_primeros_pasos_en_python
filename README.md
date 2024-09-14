@@ -17,8 +17,8 @@ Python es uno de los lenguajes de programación más exitosos del momento ya que
 
 # 💻 Escenario
 
-· Para llevar a cabo el proyecto recomendamos utilizar el intérprete de comandos en línea y colaborativo, [replit.com](https://replit.com) que destaca porsu sencillez y características exclusivas para el sector educativo.  
-· ➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos, además de _replit_, podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace (también en las versiones personales).  
+· Para llevar a cabo el proyecto recomendamos utilizar el editor de comandos en línea y colaborativo, [replit.com](https://replit.com) que destaca por su sencillez y características exclusivas para el sector educativo.  
+➕ Para desarrollar actividades de ampliación, práticas y consolidar conocimientos, además de _Replit_, podemos utilizar [Google Colaboratory](https://research.colab.google.com) que está incluido de [manera gratuita](https://research.google.com/colaboratory/intl/es/faq.html#free-to-use) con cualquier cuenta de Google Workspace (también en las versiones personales).  
 
 ❗️ Atención: Google Colab [no está cubierto](/images/colab_acuerdo_licencia.png) por el contrato de Google Workspace para centros educativos. Deberemos solicitar consentimiento expreso por escrito a padres y/o tutores de nuestro alumnado para utilizar dicho servicio.  
 ❗️ Activación del servicio: por defecto se encuentra deshabilitado en nuestra consola de administración. Deberemos solicitar a nuestro/a administrador/a que lo [active](/images/colab_activacion_uo.png) para las unidades organizativas que lo vayan a utilizar.
@@ -143,12 +143,14 @@ A continuación te presento una serie de breves actividades que te serán de gra
 
 # 🏆 Quiero saber más
 
-Wakelet · [Python en primaria](https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I).
+Wakelet · [Python en primaria](https://wakelet.com/wake/zr9_jIywNmym0exHjSQ8I)
 
 # ➕ Información
 
 1️⃣ Los archivos están desarrollados en lenguaje [__Markdown__](https://www.markdownguide.org/) _(md)_. Deberás copiarlos y pegarlos en tu estructura de [Replit](https://replit.com).  
 
-2️⃣ Este conjunto de materiales ha sido creado con la única finalidad de servir de base a otros proyectos de estudio y divulgación. No me hago responsable de los posibles problemas ni perjuicios que puedan provocar con su uso.  
+2️⃣ Este conjunto de materiales ha sido desarrollado exclusivamente como una base para proyectos de estudio y divulgación. __No asumo responsabilidad por los problemas o daños que puedan derivarse de su uso__.
 
-3️⃣ Todas las descargas de materiales, vídeos e imágenes protegidos de la red son ilegales. Asegúrate bien antes de utilizar cualquier recurso aquí presentado que no infringes esta ni cualquier otra ley vigente.
+3️⃣ La descarga de materiales, vídeos e imágenes protegidos de la red es ilegal. Asegúrate de cumplir con esta y cualquier otra legislación vigente antes de utilizar los recursos presentados aquí.
+
+4️⃣ Este material está etiquetado bajo la licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Siéntete libre de imaginar, crear, compartir y mejorar estos proyectos, siempre respetando los términos de la licencia.
